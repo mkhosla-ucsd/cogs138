@@ -1,0 +1,122 @@
+# Welcome section
+quarter: Spring 2023
+building: PETER 110
+timings: TU & TH 9:30-10:50AM
+piazza_link: https://piazza.com/ucsd/spring2023/cogs9
+piazza_entry_code: tvz2gyjdft9
+classquestion_code: CRVBF
+gradescope_link: https://www.gradescope.com/courses/527107
+gradescope_entry_code: 2KVZ2E
+pre_course_survey: TBD
+cogsadvising: cogsadvising@ucsd.edu
+
+instructor:
+  name: Shannon Ellis
+  email: sellis@ucsd.edu
+  type: Instructor
+  office_hours:
+    - day: Th
+      time: 1:00-3:00PM
+      location: TBD
+      # zoom_link: https://ucsd.zoom.us/j/4288626123?pwd=TWpyQW5nZkpUTWJvU0YzejQyY25Sdz09
+      # zoom_pw: 725814
+
+teaching_assistants:
+  - name: Shubham Kulkarni
+    email: vrchelur@ucsd.edu
+    type: TA
+    office_hours:
+      - day: TBD
+        time: TBD
+        location: TBD
+        # zoom_link: https://ucsd.zoom.us/j/3037643310
+        # zoom_pw:
+  - name: Matthew Feigelis
+    # email: aas050@ucsd.edu
+    type: TA
+    office_hours:
+      - day: TBD
+        time: TBD
+        location: TBD
+        # zoom_link: https://ucsd.zoom.us/my/areeb99?pwd=ZVlHZWRBVEdVTlZHTEpOUGxOTnVKZz09
+        # zoom_pw: 350679
+  - name: Kunal Rustagi
+    # email: kurustagi@ucsd.edu
+    type: TA
+    office_hours:
+      - day: TBD
+        time: TBD
+        location: TBD
+        # zoom_link: https://ucsd.zoom.us/j/92034058774
+        zoom_pw:
+
+instructional_assistants:
+  - name: Yupei Sun
+    # email: zhz044@ucsd.edu
+    type: IA
+    office_hours:
+      - day: TBD
+        time: TBD
+        location: TBD
+        # zoom_link: https://ucsd.zoom.us/j/4202369014?pwd=NkhFUG5CUWJPN2hiTE83cCtraGdWZz09
+        # zoom_pw: a2WM2F
+  - name: Mincong Wu
+    # email: zhz044@ucsd.edu
+    type: IA
+    office_hours:
+      - day: TBD
+        time: TBD
+        location: TBD
+        # zoom_link: https://ucsd.zoom.us/j/4202369014?pwd=NkhFUG5CUWJPN2hiTE83cCtraGdWZz09
+        # zoom_pw: a2WM2F
+  - name: Connor McManigal
+    # email: jiz147@ucsd.edu
+    type: IA
+    office_hours:
+      - day: TBD
+        time: TBD
+        location: TBD
+        # zoom_link: https://ucsd.zoom.us/j/95755676306?pwd=RjBQZUNDejVaT0ZzSno2VUNLc0ZFZz09
+        # zoom_pw: 804882
+
+
+discussion_sections:
+  - section: A01
+    day: Wed
+    time: 9:00-9:50AM
+    location: CENTER 122
+    ta: TBD
+    ia: TBD
+    # materials: https://github.com/kunalrustagi08/cogs-9-a01
+
+  - section: A02
+    day: Wed
+    time: 1:00-1:50PM
+    location: DIB 122
+    ta: TBD
+    ia: TBD
+    # materials: https://github.com/aas050/cogs9_a02
+
+  - section: A03
+    day: Wed
+    time: 3:00-3:50PM
+    location: CSB 004
+    ta: TBD
+    ia: TBD
+    # materials: https://github.com/vchelur97/cogs9-discussion
+
+  - section: A04
+    day: Wed
+    time: 5:00-5:50PM
+    location: MANDE B-150
+    ta: TBD
+    ia: TBD
+    # materials: https://github.com/vchelur97/cogs9-discussion
+
+  - section: A05
+    day: Wed
+    time: 6:00-6:50PM
+    location: MANDE B-150
+    ta: TBD
+    ia: TBD
+    # materials: https://github.com/vchelur97/cogs9-discussion

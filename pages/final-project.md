@@ -2,7 +2,7 @@
 layout: default
 title: Final Project
 has_children: true
-nav_order: 7
+nav_order: 8
 permalink: /final-group-project/
 ---
 
@@ -14,6 +14,6 @@ Your question could be purely scientific (e.g., "How do different cultures perce
 
 Your Final Project will have the following sections: Question, Hypothesis, Background Information, Data, Ethical Considerations, Analysis Proposal, Discussion, Group Participation
 
-Remember to proofread your essays and that you are not using overly flowery and/or vague language. Use as few words as possible, but no less, to describe your approach. Concision is key, you wouldn’t over engineer a system. Correct? Why would you over engineer your prose? Think Hemmingway, not Faulkner. A small portion of your grade will be dependent on your ability to write clearly, and logically, and without errors that should be caught during a proofreading. As well as your ability to follow all the instructions laid out in this document.
+Remember to proofread your essays and that you are not using overly flowery and/or vague language. Use as few words as possible, but no less, to describe your approach. Concision is key, you wouldn’t over engineer a system. Correct? Why would you over engineer your prose? Think Hemmingway, not Faulkner. A small portion of your grade will be dependent on your ability to write clearly, logically, and without errors that should be caught during proofreading.
 
-You will turn in one PDF as a group into Gradescope by the due date for part 1 and part 2. There are no late submissions accepted, unless there is an issue outside of your control. If so, email your course instructors and all your teammates. Before the due date.
+You will turn in one PDF as a group into Gradescope by the due date for part 1 and part 2. There are no late submissions accepted, unless there is an issue outside of your control. If so, email your course instructor and all your teammates before the due date.

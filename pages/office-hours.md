@@ -2,7 +2,7 @@
 layout: default
 title: Office Hours
 has_children: false
-nav_order: 9
+nav_order: 4
 permalink: /office-hours/
 ---
 
@@ -11,20 +11,8 @@ permalink: /office-hours/
 
 # Office Hours
 
-## Contact Info
 
-**Instructor** <br/> {{ variables.instructor.name }} - [{{ variables.instructor.email }}](mailto:{{ variables.instructor.email }})
-
-**Teaching Assistants (TAs)**
-{% for ta in variables.teaching_assistants %} <br/> {{ ta.name }} - [{{ ta.email }}](mailto:{{ ta.email }}) {% endfor %}
-
-**Instructional Assistants (IAs)**
-{% for ia in variables.instructional_assistants %} <br/> {{ ia.name }} - [{{ ia.email }}](mailto:{{ ia.email }}) {% endfor %}
-<!-- {: .fs-3 } -->
-
-## Office Hours & Zoom Info
-
-Office hours are a great place to personally interact. Beyond projects and course material, we are interested in your goals, career endeavors, and what you want to gain from COGS 9. Data Science is a rapidly changing field and there is always a lot to discuss. Some members are available on both Zoom and in-person, so feel free to meet with them peronally.
+Office hours are a great place to personally interact. Beyond projects and course material, we are interested in your goals, career endeavors, and what you want to gain from COGS 9. Data Science is a rapidly changing field and there is always a lot to discuss!
 
 <table style="table-layout: fixed; text-align: center; width: 100%;">
     <thead>
@@ -72,4 +60,4 @@ Office hours are a great place to personally interact. Beyond projects and cours
 </table>
 
 {: .note .fs-3 }
-If you are unable to join or are having other issues, please reach out after class (I tend to do impromptu office hours after each class if I have time) or in the discussion sections. Additionally, we are more than happy, to set up additional 1:1 or 1:group meetings when necessary.
+If you are unable to join or are having other issues, please reach out before or after class (I try to get to class a few minutes early and can stay for a few minutes after, although I do teach a class right after this one so can't stay too long) or in the discussion sections.

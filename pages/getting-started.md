@@ -9,13 +9,19 @@ permalink: /getting started
 {% assign variables = site.data[site.data_folder].variables %}
 # Getting Started
 
-1. Join the class Discord: **{{ variables.discord_link }}**
-   - Use Discord to ask questions and get help from your fellow students, TAs, IAs, and myself
-   - In-class polls (instead of iclickers) are done through Discord, as well as for in-class discussions
-2. Register for the class Gradescope
-   -  Gradescope link: **{{ variables.gradescope_link }}**
+1. Join the COGS 9 **ClassQuestion**: 
+   - Used for lecture Q&A and attendance (which is not required but is incentivized; see syllabus)
+   - ClassQuestion link: **[https://classquestion.com/](https://classquestion.com/)**
+   - Entry code: **{{ variables.classquestion_code }}**
+   -  When registering for ClassQuestion you must use your **Student ID/PID** and **UCSD Email**.
+2. Join the class **Piazza**:
+   - Use Piazza to ask questions and get help from your fellow students, TAs, IAs, and myself
+   - Piazza link:  **[{{ variables.piazza_link }}]({{ variables.piazza_link }})**
+   - Entry code:  **{{ variables.piazza_entry_code }}**
+3. Register for the class **Gradescope**
+   -  Gradescope link: **[{{ variables.gradescope_link }}]({{ variables.gradescope_link }})**
    -  Entry code: **{{ variables.gradescope_entry_code }}**
-   -  When registering for **Gradescope** you must include your **Student ID/PID** and **UCSD Email**.
-3. Start Reading 1, it is a very long reading, the longest by far!
-4. Make sure you attend the discussion sections during week 2 or 3, we will be forming project groups
-5. Stop by one of the office hours or come up to the front of the class before or after to say hi and introduce yourself! I'd love to meet and get to know you.
+   -  When registering for Gradescope you must include your **Student ID/PID** and **UCSD Email**.
+4. Start Reading 1, it is a very long reading, the longest by far!
+5. Make sure you attend the discussion sections during week 2; we will be forming project groups and you'll want to meet your group mates
+6. Fill out the **[pre-course survey]({{ variables.pre_course_survey }})** so we can start to get to know you better. And, stop by one of the office hours or come up to the front of the class before or after to say hi and introduce yourself! I'd love to meet and get to know you.

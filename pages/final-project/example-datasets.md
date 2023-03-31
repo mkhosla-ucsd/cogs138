@@ -3,7 +3,7 @@ layout: default
 title: Example Datasets
 has_children: false
 parent: Final Project
-nav_order: 1
+nav_order: 3
 permalink: /final-group-project/example-datasets
 ---
 

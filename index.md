@@ -19,7 +19,7 @@ nav_order: 1
 # Introduction to Data Science
 
 {: .text-grey-dk-300 .fw-300 .lh-0 }
-## COGS 9 - UC San Diego - Prof. Kyle Shannon 
+## COGS 9 - UC San Diego - Prof. Shannon Ellis
 
 {{ variables.quarter }}
 {: .md-badge-purple }
@@ -38,7 +38,7 @@ We look forward to teaching and working with all of you and hope to meet you in 
 {: .fs-3 }
 
 {: .note .fs-2 }
-Week one I try to take as many students from the **waitlist** as I can, please email [{{ variables.cogsadvising }}](mailto:{{ variables.cogsadvising }}) with further questions.
+Our staff try to enroll as many students from the waitlist as possible during Week one. Prof does not have access to the waitlist or the ability to directly enroll anyone into the class, so please email [{{ variables.cogsadvising }}](mailto:{{ variables.cogsadvising }}) with further questions.
 
 ## Discussion Sections
 
@@ -47,10 +47,9 @@ Week one I try to take as many students from the **waitlist** as I can, please e
         <tr class="header">
             <th style="width: 15%;"></th>
             <th style="width: 15%;"> Day </th>
-            <th style="width: 15%;"> Time </th>
-            <th style="width: 15%;"> Location </th>
-            <th style="width: 25%;"> Staff </th>
-            <th style="width: 15%;"> Materials </th>
+            <th style="width: 20%;"> Time </th>
+            <th style="width: 20%;"> Location </th>
+            <th style="width: 30%;"> Staff </th>
         </tr>
     </thead>
     <tbody>
@@ -61,7 +60,7 @@ Week one I try to take as many students from the **waitlist** as I can, please e
             <td> {{ ds.time }} </td>
             <td> {{ ds.location }} </td>
             <td> TA: {{ ds.ta }} <br/> IAs: {{ ds.ia }} </td>
-            <td> <a href="{{ ds.materials }}"> View </a> </td>
+            <!-- <td> <a href="{{ ds.materials }}"> View </a> </td> -->
         </tr>
         {% endfor %}
     </tbody>

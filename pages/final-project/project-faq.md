@@ -2,8 +2,9 @@
 layout: default
 title: FAQ
 has_children: false
-nav_order: 8
-permalink: /course-faq
+parent: Final Project
+nav_order: 5
+permalink: /final-group-project/project-faq
 ---
 
 <h1>Frequently Asked Questions</h1>

@@ -10,15 +10,16 @@ permalink: /readings/reading-2
 # Reading 2
 
 - Loukides M, Mason, H & Patil DJ, Data's Day of Reckoning <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs9/readings/r2a-ethics-data-reckoning.pdf" target="_blank" rel="noopener">download &#x2197;</a>
-- Narayanan and Shmatikov, Privacy & Security Myths & Fallacies of "PII" <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs9/readings/r2b-ethics-privacy-security.pdf" target="_blank" rel="noopener">download &#x2197;</a>
+- Keyes, Hutson, & Durbin, A Mulching Proposal <a href="https://cogs9.s3.us-west-1.amazonaws.com/ethics_mulching.pdf" target="_blank" rel="noopener">download &#x2197;</a>
 
-Reading 2 is about ethics, and specifically, the ethical issues that arise when working with large amounts of data. In class, we talk more about the topic and theory of ethics, with some practical examples. These readings go into much more detail about practical applications for ethics in data science, how you may want to tackle such challenges, and why they exist. Patil's article has a lot of good practical tips to think about when writing your ethics section in Assignment 1 and the final. Narayanan's paper provides a close look into the issues surrounding personal data and the dangers inherent when working with and storing such data.
+Reading 2 is about ethics, and specifically, the ethical issues that arise when working with large amounts of data and when building algorithms that make decisions. In class, we talk more about the topic and theory of ethics, with some practical examples. These readings go into much more detail about practical applications for ethics in data science, how you may want to tackle such challenges, and why they exist. Patil's article has a lot of good practical tips to think about when writing your ethics section in Assignment 1 and the final. Keyes's *satirical* article presents an algorithm to help us think deeper about what it means to design an ethical algorithm. 
 
 ## Additional Resources
 
 ### Security
 
 Here are two excellent sources for security-related information, research, and news. 
+- Narayanan and Shmatikov, Privacy & Security Myths & Fallacies of "PII" <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs9/readings/r2b-ethics-privacy-security.pdf" target="_blank" rel="noopener">download &#x2197;</a>
 - Bruce Schneier's <a href="https://www.schneier.com/" target="_blank" rel="noopener">site &#x2197;</a> He is a fellow/lecturer at Harvard and on the board of the EFF.
 - Brian Krebs' blog <a href="https://krebsonsecurity.com/" target="_blank" rel="noopener">KrebOnSecurity &#x2197;</a> is a resource for current news and investigatory material on security issues. He worked for the Washington Post as a reporter for over 15 years.
 

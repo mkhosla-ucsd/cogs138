@@ -3,7 +3,7 @@ layout: default
 title: Final Project Part 1
 has_children: false
 parent: Final Project
-nav_order: 2
+nav_order: 1
 permalink: /final-group-project/part-one
 ---
 

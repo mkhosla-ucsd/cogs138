@@ -22,11 +22,11 @@
 destination: docs/
 
 title: COGS 9
-email: kshannon@ucsd.edu
+email: sellis@ucsd.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is a course website for UCSD COGS 9: Introduction to Data Science
 # domain: ucsd-cogs9.github.io
-url: https://kshannon.github.io
+url: https://cogs9.github.io
 baseurl: /ucsd-cogs9
 
 ###### Build settings
@@ -60,6 +60,7 @@ exclude:
   - vendor/ruby/
   - .data/ #user specific excludes here...
 
+
 # Aux link for the upper right navigation
 aux_links:
   # "Template Repository": "https://www.github.com/kshannon/ucsd-cogs9"
@@ -70,7 +71,7 @@ aux_links:
 aux_links_new_tab: true
 
 # Change this to choose where to pick data from
-data_folder: wi23
+data_folder: sp23
 
 # Config JTD UI elements here
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
