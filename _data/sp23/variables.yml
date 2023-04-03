@@ -23,7 +23,6 @@ instructor:
 
 teaching_assistants:
   - name: Shubham Kulkarni
-    email: vrchelur@ucsd.edu
     type: TA
     office_hours:
       - day: TBD
@@ -32,7 +31,6 @@ teaching_assistants:
         # zoom_link: https://ucsd.zoom.us/j/3037643310
         # zoom_pw:
   - name: Matthew Feigelis
-    # email: aas050@ucsd.edu
     type: TA
     office_hours:
       - day: TBD
@@ -41,7 +39,6 @@ teaching_assistants:
         # zoom_link: https://ucsd.zoom.us/my/areeb99?pwd=ZVlHZWRBVEdVTlZHTEpOUGxOTnVKZz09
         # zoom_pw: 350679
   - name: Kunal Rustagi
-    # email: kurustagi@ucsd.edu
     type: TA
     office_hours:
       - day: TBD
@@ -52,7 +49,6 @@ teaching_assistants:
 
 instructional_assistants:
   - name: Yupei Sun
-    # email: zhz044@ucsd.edu
     type: IA
     office_hours:
       - day: TBD
@@ -61,7 +57,6 @@ instructional_assistants:
         # zoom_link: https://ucsd.zoom.us/j/4202369014?pwd=NkhFUG5CUWJPN2hiTE83cCtraGdWZz09
         # zoom_pw: a2WM2F
   - name: Mincong Wu
-    # email: zhz044@ucsd.edu
     type: IA
     office_hours:
       - day: TBD
@@ -70,7 +65,6 @@ instructional_assistants:
         # zoom_link: https://ucsd.zoom.us/j/4202369014?pwd=NkhFUG5CUWJPN2hiTE83cCtraGdWZz09
         # zoom_pw: a2WM2F
   - name: Connor McManigal
-    # email: jiz147@ucsd.edu
     type: IA
     office_hours:
       - day: TBD
@@ -85,38 +79,38 @@ discussion_sections:
     day: Wed
     time: 9:00-9:50AM
     location: CENTER 122
-    ta: TBD
-    ia: TBD
+    ta: Kunal Rustagi
+    ia: Connor McManigal
     # materials: https://github.com/kunalrustagi08/cogs-9-a01
 
   - section: A02
     day: Wed
     time: 1:00-1:50PM
     location: DIB 122
-    ta: TBD
-    ia: TBD
+    ta: Kunal Rustagi
+    ia: Yupei Sun
     # materials: https://github.com/aas050/cogs9_a02
 
   - section: A03
     day: Wed
     time: 3:00-3:50PM
     location: CSB 004
-    ta: TBD
-    ia: TBD
+    ta: Matthew Feigelis & Shubham Kulkarni
+    ia: --
     # materials: https://github.com/vchelur97/cogs9-discussion
 
   - section: A04
     day: Wed
     time: 5:00-5:50PM
     location: MANDE B-150
-    ta: TBD
-    ia: TBD
+    ta: Matthew Feigelis
+    ia: Mincong Wu
     # materials: https://github.com/vchelur97/cogs9-discussion
 
   - section: A05
     day: Wed
     time: 6:00-6:50PM
     location: MANDE B-150
-    ta: TBD
-    ia: TBD
+    ta: Shubham Kulkarni
+    ia: Mincong Wu
     # materials: https://github.com/vchelur97/cogs9-discussion
