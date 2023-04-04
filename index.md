@@ -59,7 +59,7 @@ Our staff try to enroll as many students from the waitlist as possible during We
             <td> {{ ds.day }} </td>
             <td> {{ ds.time }} </td>
             <td> {{ ds.location }} </td>
-            <td> TA: {{ ds.ta }} <br/> IAs: {{ ds.ia }} </td>
+            <td> TA: {{ ds.ta }} <br/> IA: {{ ds.ia }} </td>
             <!-- <td> <a href="{{ ds.materials }}"> View </a> </td> -->
         </tr>
         {% endfor %}

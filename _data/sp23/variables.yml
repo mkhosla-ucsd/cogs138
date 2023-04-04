@@ -79,23 +79,23 @@ discussion_sections:
     day: Wed
     time: 9:00-9:50AM
     location: CENTER 122
-    ta: Kunal Rustagi
-    ia: Connor McManigal
+    ta: Kunal 
+    ia: Connor 
     # materials: https://github.com/kunalrustagi08/cogs-9-a01
 
   - section: A02
     day: Wed
     time: 1:00-1:50PM
     location: DIB 122
-    ta: Kunal Rustagi
-    ia: Yupei Sun
+    ta: Kunal 
+    ia: Yupei 
     # materials: https://github.com/aas050/cogs9_a02
 
   - section: A03
     day: Wed
     time: 3:00-3:50PM
     location: CSB 004
-    ta: Matthew Feigelis & Shubham Kulkarni
+    ta: Matthew & Shubham
     ia: --
     # materials: https://github.com/vchelur97/cogs9-discussion
 
@@ -103,14 +103,14 @@ discussion_sections:
     day: Wed
     time: 5:00-5:50PM
     location: MANDE B-150
-    ta: Matthew Feigelis
-    ia: Mincong Wu
+    ta: Matthew 
+    ia: Mincong
     # materials: https://github.com/vchelur97/cogs9-discussion
 
   - section: A05
     day: Wed
     time: 6:00-6:50PM
     location: MANDE B-150
-    ta: Shubham Kulkarni
-    ia: Mincong Wu
+    ta: Shubham
+    ia: Mincong
     # materials: https://github.com/vchelur97/cogs9-discussion

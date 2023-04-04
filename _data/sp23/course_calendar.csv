@@ -1,7 +1,7 @@
 date,title,label,link
-2023-04-04,What is Data Science,LECT,
+2023-04-04,What is Data Science,LECT,https://cogs9.s3.us-west-1.amazonaws.com/01_intro.pdf
 2023-04-06,Ethics,LECT,
-2023-04-07,[Extra Credit] Pre-course survey due,EXTR,
+2023-04-07,[Extra Credit] Pre-course survey due,EXTR,https://docs.google.com/forms/d/e/1FAIpQLScvM4DCdOTqSDdJ8UWc4WsbrYwff6D8bnPVfAz0LjoChxi8Ww/viewform?usp=sf_link
 2023-04-11,Data Science Questions & Reading,LECT,
 2023-04-13,Reproducibility & Bias,LECT,
 2023-04-18,Data,LECT,
@@ -24,7 +24,7 @@ date,title,label,link
 2023-05-19,Quiz 4 due,QUIZ,https://www.gradescope.com/courses/527107
 2023-05-19,Assignment 2 due,ASSG,https://www.gradescope.com/courses/527107
 2023-05-23,Machine Learning II,LECT,
-2023-05-25,Guest Lecture,GLCT,
+2023-05-25,Guest Lecture: Sam Lau,GLCT,
 2023-05-26,Assignment 3 due,ASSG,https://www.gradescope.com/courses/527107
 2023-05-30,"Text, Longitudinal, and Geospatial Analysis",LECT,
 2023-06-01,Giving a Data Science Talk,LECT,
