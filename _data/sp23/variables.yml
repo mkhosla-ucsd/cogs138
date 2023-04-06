@@ -15,11 +15,10 @@ instructor:
   email: sellis@ucsd.edu
   type: Instructor
   office_hours:
-    - day: Th
+    - day: Tu
       time: 1:00-3:00PM
-      location: TBD
-      # zoom_link: https://ucsd.zoom.us/j/4288626123?pwd=TWpyQW5nZkpUTWJvU0YzejQyY25Sdz09
-      # zoom_pw: 725814
+      location: CSB 243
+
 
 teaching_assistants:
   - name: Shubham Kulkarni
@@ -33,11 +32,9 @@ teaching_assistants:
   - name: Matthew Feigelis
     type: TA
     office_hours:
-      - day: TBD
-        time: TBD
-        location: TBD
-        # zoom_link: https://ucsd.zoom.us/my/areeb99?pwd=ZVlHZWRBVEdVTlZHTEpOUGxOTnVKZz09
-        # zoom_pw: 350679
+      - day: Wed
+        time: 12:30-2:30PM
+        location: SSRB 239
   - name: Kunal Rustagi
     type: TA
     office_hours:
