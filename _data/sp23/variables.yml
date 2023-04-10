@@ -24,9 +24,9 @@ teaching_assistants:
   - name: Shubham Kulkarni
     type: TA
     office_hours:
-      - day: TBD
-        time: TBD
-        location: TBD
+      - day: Wed
+        time: 4:00-5:00PM
+        location: CSB 114
         # zoom_link: https://ucsd.zoom.us/j/3037643310
         # zoom_pw:
   - name: Matthew Feigelis
@@ -38,11 +38,11 @@ teaching_assistants:
   - name: Kunal Rustagi
     type: TA
     office_hours:
-      - day: TBD
-        time: TBD
-        location: TBD
+      - day: Mon
+        time: 9:00-10:00AM
+        location: Zoom (link on canvas)
         # zoom_link: https://ucsd.zoom.us/j/92034058774
-        zoom_pw:
+        # zoom_pw:
 
 instructional_assistants:
   - name: Yupei Sun

@@ -17,11 +17,11 @@ Office hours are a great place to personally interact. Beyond projects and cours
 <table style="table-layout: fixed; text-align: center; width: 100%;">
     <thead>
         <tr class="header">
-            <th style="width: 25%;"> Staff </th>
-            <th style="width: 25%;"> Day & Time </th>
-            <th style="width: 25%;"> Location </th>
-            <th style="width: 12.5%;"> Link </th>
-            <th style="width: 12.5%;"> Pass </th>
+            <th style="width: 40%;"> Staff </th>
+            <th style="width: 30%;"> Day & Time </th>
+            <th style="width: 30%;"> Location </th>
+            <!-- <th style="width: 12.5%;"> Link </th> -->
+            <!-- <th style="width: 12.5%;"> Pass </th> -->
         </tr>
     </thead>
     <tbody>
@@ -30,8 +30,8 @@ Office hours are a great place to personally interact. Beyond projects and cours
             <td> {{ variables.instructor.name }} </td>
             <td> {{ oh.day }} {{ oh.time }} </td>
             <td> {{ oh.location }} </td>
-            <td> <a href='{{ oh.zoom_link }}' target="_blank" rel="noopener">Join &#x2197;</a> </td>
-            <td> {% if oh.zoom_pw %} {{ oh.zoom_pw }} {% endif %} </td>
+            <!-- <td> <a href='{{ oh.zoom_link }}' target="_blank" rel="noopener">Join &#x2197;</a> </td> -->
+            <!-- <td> {% if oh.zoom_pw %} {{ oh.zoom_pw }} {% endif %} </td> -->
         </tr>
         {% endfor %}
         {% for row in variables.teaching_assistants %}
@@ -40,24 +40,26 @@ Office hours are a great place to personally interact. Beyond projects and cours
                 <td> {{ row.name }} </td>
                 <td> {{ oh.day }} {{ oh.time }} </td>
                 <td> {{ oh.location }} </td>
-                <td> <a href='{{ oh.zoom_link }}' target="_blank" rel="noopener">Join &#x2197;</a> </td>
-                <td> {% if oh.zoom_pw %} {{ oh.zoom_pw }} {% endif %} </td>
+                <!-- <td> <a href='{{ oh.zoom_link }}' target="_blank" rel="noopener">Join &#x2197;</a> </td> -->
+                <!-- <td> {% if oh.zoom_pw %} {{ oh.zoom_pw }} {% endif %} </td> -->
             </tr>
             {% endfor %}
         {% endfor %}
-        {% for row in variables.instructional_assistants %}
+<!--         {% for row in variables.instructional_assistants %}
             {% for oh in row.office_hours %}
             <tr>
                 <td> {{ row.name }} </td>
                 <td> {{ oh.day }} {{ oh.time }} </td>
                 <td> {{ oh.location }} </td>
-                <td> <a href='{{ oh.zoom_link }}' target="_blank" rel="noopener">Join &#x2197;</a> </td>
-                <td> {% if oh.zoom_pw %} {{ oh.zoom_pw }} {% endif %} </td>
+                <!-- <td> <a href='{{ oh.zoom_link }}' target="_blank" rel="noopener">Join &#x2197;</a> </td> -->
+                <!-- <td> {% if oh.zoom_pw %} {{ oh.zoom_pw }} {% endif %} </td> -->
             </tr>
             {% endfor %}
-        {% endfor %}
+        {% endfor %} -->
     </tbody>
 </table>
+
+Zoom Links can be found on Canvas homepage.
 
 {: .note .fs-3 }
 If you are unable to join or are having other issues, please reach out before or after class (I try to get to class a few minutes early and can stay for a few minutes after, although I do teach a class right after this one so can't stay too long) or in the discussion sections.
