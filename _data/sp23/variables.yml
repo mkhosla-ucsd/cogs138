@@ -21,20 +21,6 @@ instructor:
 
 
 teaching_assistants:
-  - name: Shubham Kulkarni
-    type: TA
-    office_hours:
-      - day: Wed
-        time: 4:00-5:00PM
-        location: CSB 114
-        # zoom_link: https://ucsd.zoom.us/j/3037643310
-        # zoom_pw:
-  - name: Matthew Feigelis
-    type: TA
-    office_hours:
-      - day: Wed
-        time: 12:30-2:30PM
-        location: SSRB 239
   - name: Kunal Rustagi
     type: TA
     office_hours:
@@ -43,6 +29,22 @@ teaching_assistants:
         location: Zoom (link on canvas)
         # zoom_link: https://ucsd.zoom.us/j/92034058774
         # zoom_pw:
+  - name: Matthew Feigelis
+    type: TA
+    office_hours:
+      - day: Wed
+        time: 12:30-2:30PM
+        location: SSRB 239
+  - name: Shubham Kulkarni
+    type: TA
+    office_hours:
+      - day: Wed
+        time: 4:00-5:00PM
+        location: CSB 114
+        # zoom_link: https://ucsd.zoom.us/j/3037643310
+        # zoom_pw:
+
+
 
 instructional_assistants:
   - name: Yupei Sun
@@ -75,7 +77,7 @@ discussion_sections:
   - section: A01
     day: Wed
     time: 9:00-9:50AM
-    location: CENTER 122
+    location: CENTER 222
     ta: Kunal 
     ia: Connor 
     # materials: https://github.com/kunalrustagi08/cogs-9-a01
@@ -92,7 +94,7 @@ discussion_sections:
     day: Wed
     time: 3:00-3:50PM
     location: CSB 004
-    ta: Matthew & Shubham
+    ta: Matthew
     ia: --
     # materials: https://github.com/vchelur97/cogs9-discussion
 
@@ -100,7 +102,7 @@ discussion_sections:
     day: Wed
     time: 5:00-5:50PM
     location: MANDE B-150
-    ta: Matthew 
+    ta: Shubham 
     ia: Mincong
     # materials: https://github.com/vchelur97/cogs9-discussion
 
