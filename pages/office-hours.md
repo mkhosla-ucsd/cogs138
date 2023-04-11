@@ -45,17 +45,17 @@ Office hours are a great place to personally interact. Beyond projects and cours
             </tr>
             {% endfor %}
         {% endfor %}
-<!--         {% for row in variables.instructional_assistants %}
-            {% for oh in row.office_hours %}
-            <tr>
-                <td> {{ row.name }} </td>
-                <td> {{ oh.day }} {{ oh.time }} </td>
-                <td> {{ oh.location }} </td>
+        <!-- {% for row in variables.instructional_assistants %} -->
+            <!-- {% for oh in row.office_hours %} -->
+            <!-- <tr> -->
+                <!-- <td> {{ row.name }} </td> -->
+                <!-- <td> {{ oh.day }} {{ oh.time }} </td> -->
+                <!-- <td> {{ oh.location }} </td> -->
                 <!-- <td> <a href='{{ oh.zoom_link }}' target="_blank" rel="noopener">Join &#x2197;</a> </td> -->
                 <!-- <td> {% if oh.zoom_pw %} {{ oh.zoom_pw }} {% endif %} </td> -->
-            </tr>
-            {% endfor %}
-        {% endfor %} -->
+            <!-- </tr> -->
+            <!-- {% endfor %} -->
+        <!-- {% endfor %} -->
     </tbody>
 </table>
 
