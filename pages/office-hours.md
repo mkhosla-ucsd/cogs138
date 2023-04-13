@@ -9,6 +9,17 @@ permalink: /office-hours/
 {% assign variables = site.data[site.data_folder].variables %}
 {% assign course_calendar = site.data[site.data_folder].course_calendar %}
 
+## Contact Info
+
+**Instructor** <br/> {{ variables.instructor.name }} - [{{ variables.instructor.email }}](mailto:{{ variables.instructor.email }})
+
+**Teaching Assistants (TAs)**
+{% for ta in variables.teaching_assistants %} <br/> {{ ta.name }} - [{{ ta.email }}](mailto:{{ ta.email }}) {% endfor %}
+
+**Instructional Assistants (IAs)**
+{% for ia in variables.instructional_assistants %} <br/> {{ ia.name }} - [{{ ia.email }}](mailto:{{ ia.email }}) {% endfor %}
+<!-- {: .fs-3 } -->
+
 # Office Hours
 
 

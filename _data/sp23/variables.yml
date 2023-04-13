@@ -22,6 +22,7 @@ instructor:
 
 teaching_assistants:
   - name: Kunal Rustagi
+    email: kurustagi@ucsd.edu
     type: TA
     office_hours:
       - day: Mon
@@ -30,16 +31,18 @@ teaching_assistants:
         # zoom_link: https://ucsd.zoom.us/j/92034058774
         # zoom_pw:
   - name: Matthew Feigelis
+    email: mfeigeli@ucsd.edu
     type: TA
     office_hours:
       - day: Wed
         time: 12:30-2:30PM
         location: SSRB 239
   - name: Shubham Kulkarni
+    email: skulkarn@ucsd.edu
     type: TA
     office_hours:
-      - day: Wed
-        time: 4:00-5:00PM
+      - day: Fri
+        time: 11:00AM-12:00PM
         location: CSB 114
         # zoom_link: https://ucsd.zoom.us/j/3037643310
         # zoom_pw:
@@ -48,6 +51,7 @@ teaching_assistants:
 
 instructional_assistants:
   - name: Yupei Sun
+    email: yus017@ucsd.edu
     type: IA
     office_hours:
       - day: TBD
@@ -56,6 +60,7 @@ instructional_assistants:
         # zoom_link: https://ucsd.zoom.us/j/4202369014?pwd=NkhFUG5CUWJPN2hiTE83cCtraGdWZz09
         # zoom_pw: a2WM2F
   - name: Mincong Wu
+    email: miw036@ucsd.edu
     type: IA
     office_hours:
       - day: TBD
@@ -64,6 +69,7 @@ instructional_assistants:
         # zoom_link: https://ucsd.zoom.us/j/4202369014?pwd=NkhFUG5CUWJPN2hiTE83cCtraGdWZz09
         # zoom_pw: a2WM2F
   - name: Connor McManigal
+    email: cmcmanig@ucsd.edu
     type: IA
     office_hours:
       - day: TBD
