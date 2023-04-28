@@ -86,7 +86,7 @@ discussion_sections:
     location: CENTER 222
     ta: Kunal 
     ia: Connor 
-    # materials: https://github.com/kunalrustagi08/cogs-9-a01
+    materials:  https://github.com/kunalrustagi08/cogs_9_sp23_a01_a02
 
   - section: A02
     day: Wed
@@ -94,7 +94,7 @@ discussion_sections:
     location: DIB 122
     ta: Kunal 
     ia: Yupei 
-    # materials: https://github.com/aas050/cogs9_a02
+    materials:  https://github.com/kunalrustagi08/cogs_9_sp23_a01_a02
 
   - section: A03
     day: Wed
@@ -102,7 +102,7 @@ discussion_sections:
     location: CSB 004
     ta: Matthew
     ia: --
-    # materials: https://github.com/vchelur97/cogs9-discussion
+    materials: NA
 
   - section: A04
     day: Wed
@@ -110,7 +110,7 @@ discussion_sections:
     location: MANDE B-150
     ta: Shubham 
     ia: Mincong
-    # materials: https://github.com/vchelur97/cogs9-discussion
+    materials: NA
 
   - section: A05
     day: Wed
@@ -118,4 +118,4 @@ discussion_sections:
     location: MANDE B-150
     ta: Shubham
     ia: Mincong
-    # materials: https://github.com/vchelur97/cogs9-discussion
+    materials: NA

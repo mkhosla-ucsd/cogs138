@@ -45,11 +45,12 @@ Our staff try to enroll as many students from the waitlist as possible during We
 <table style="table-layout: fixed; text-align: center; width: 100%;">
     <thead>
         <tr class="header">
-            <th style="width: 15%;"></th>
-            <th style="width: 15%;"> Day </th>
+            <th style="width: 10%;"></th>
+            <th style="width: 10%;"> Day </th>
             <th style="width: 20%;"> Time </th>
             <th style="width: 20%;"> Location </th>
-            <th style="width: 30%;"> Staff </th>
+            <th style="width: 20%;"> Staff </th>
+            <th style="width: 20%;"> Materials </th>
         </tr>
     </thead>
     <tbody>
@@ -60,7 +61,7 @@ Our staff try to enroll as many students from the waitlist as possible during We
             <td> {{ ds.time }} </td>
             <td> {{ ds.location }} </td>
             <td> TA: {{ ds.ta }} <br/> IA: {{ ds.ia }} </td>
-            <!-- <td> <a href="{{ ds.materials }}"> View </a> </td> -->
+            <td> <a href="{{ ds.materials }}"> View </a> </td>
         </tr>
         {% endfor %}
     </tbody>
