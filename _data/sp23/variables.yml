@@ -102,7 +102,7 @@ discussion_sections:
     location: CSB 004
     ta: Matthew
     ia: --
-    materials: NA
+    materials: https://github.com/MattFeig/cogs9_sp2023
 
   - section: A04
     day: Wed
