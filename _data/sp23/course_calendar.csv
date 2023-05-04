@@ -11,11 +11,12 @@ date,title,label,link
 2023-04-27,Programming for Data Science,LECT,https://cogs9.s3.us-west-1.amazonaws.com/08_programming.pdf
 2023-04-28,Quiz 2 due,QUIZ,https://www.gradescope.com/courses/527643
 2023-05-02,Data Vizualization,LECT,https://cogs9.s3.us-west-1.amazonaws.com/09_dataviz.pdf
-2023-05-04,Exploratory Data Analysis,LECT,
-2023-05-05,[Extra Credit] Mid-course survey due,EXTR,
+2023-05-04,Exploratory Data Analysis,LECT,https://cogs9.s3.us-west-1.amazonaws.com/10_EDA.pdf
 2023-05-05,Quiz 3 due,QUIZ,https://www.gradescope.com/courses/527643
 2023-05-05,Assignment 1 due,ASSG,https://www.gradescope.com/courses/527643
-2023-05-09,Guest Lecture,GLCT,
+2023-05-09,Guest Lecture (option 1),GLCT,https://www.youtube.com/playlist?list=PLVWAJ2b9zfMxY1OYyZpLajMc95mg-h_sd
+2023-05-09,Guest Lecture (option 2),GLCT,https://www.youtube.com/channel/UCJHr7mR7fY5mYmv8jjF289g
+2023-05-09,Guest Lecture (option 3),GLCT,https://www.youtube.com/playlist?list=PLaaNbhBDEsoEh5QO4myqwDcloJhZTO61l
 2023-05-11,Communicating Data Science,LECT,
 2023-05-12,Final Project Part 1 due,PROJ,https://www.gradescope.com/courses/527643
 2023-05-12,[Extra Credit] Team evaluation due,EXTR,
