@@ -32,7 +32,9 @@ There are no late submissions accepted, unless there is an issue outside of your
 
 <h2>Additional Resources</h2>
 
-- Example 1, previous A+ Cogs 9 Final Project <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs9/final/FinalProject_Example_1.pdf" target="_blank" rel="noopener">download &#x2197;</a>
-- Example 2, previous A+ Cogs 9 Final Project <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs9/final/FinalProject_Example_2.pdf" target="_blank" rel="noopener">download &#x2197;</a>
+- Example 1, previous A+ Cogs 9 Final Project <a href="https://cogs9.s3.us-west-1.amazonaws.com/Final_Project_Example01_Sp23.pdf" target="_blank" rel="noopener">download &#x2197;</a>
+- Example 2, previous A+ Cogs 9 Final Project <a href="https://cogs9.s3.us-west-1.amazonaws.com/Final_Project_Example02_Sp23.pdf" target="_blank" rel="noopener">download &#x2197;</a>
+- Example 3, previous A+ Cogs 9 Final Project <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs9/final/FinalProject_Example_2.pdf" target="_blank" rel="noopener">download &#x2197;</a>
+- Example 4, previous A+ Cogs 9 Final Project <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs9/final/FinalProject_Example_1.pdf" target="_blank" rel="noopener">download &#x2197;</a>
 
 -----------------------
