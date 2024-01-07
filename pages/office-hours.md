@@ -73,4 +73,4 @@ Office hours are a great place to personally interact. Beyond projects and cours
 Zoom Links can be found on Canvas homepage.
 
 {: .note .fs-3 }
-If you are unable to join or are having other issues, please reach out before or after class (I try to get to class a few minutes early and can stay for a few minutes after, although I do teach a class right after this one so can't stay too long) or in the discussion sections.
+If you are unable to join or are having other issues, please reach out before or after class (I try to get to class a few minutes early and can stay for a few minutes after) or in the discussion sections.

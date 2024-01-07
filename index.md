@@ -19,7 +19,7 @@ nav_order: 1
 # Introduction to Data Science
 
 {: .text-grey-dk-300 .fw-300 .lh-0 }
-## COGS 9 - UC San Diego - Prof. Shannon Ellis
+## COGS 9 - UC San Diego - Prof. Meenakshi Khosla
 
 {{ variables.quarter }}
 {: .md-badge-purple }

@@ -15,8 +15,7 @@ The exam is an open note exam, to be taken at the comfort of your own home. Once
 
 To help students, since this is an intro class and we cover a **wide** range of topics, I make available a study guide to help you wrangle in all those key high level topics. It is up to you to flesh it out more, and fill in the details.
 
-- Exam study guide: Link Coming Soon
-<!-- <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs9/exam/cogs9-exam-study-guide-1.pdf" target="_blank" rel="noopener">download &#x2197;</a> -->
+- Exam study guide: Link will be posted in the latter half of the course
 
 {: .warning }
 You do not have to show up anywhere on the date and time of the scheduled final exam. The take-home final exam will be due on the day of the final at 11:59 PM. See the course calendar for the exact date.

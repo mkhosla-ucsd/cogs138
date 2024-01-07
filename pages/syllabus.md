@@ -17,7 +17,7 @@ permalink: /syllabus/
 ## Course Materials
 - There is **no** textbook
 - All course materials are provided through **this website**
-- ClassQuestion will be used for iecture polling and attedance
+- ClassQuestion will be used during lectures to get feedback
 - Piazza will be used for general Q&A
 - Gradescope will be used for assignment/project submissions and taking quizzes/exams
 
@@ -77,12 +77,10 @@ The regrade policy is here to protect students from serious issues in grading, n
 - We will get back to you within 48 hours after regrades close with our final decision.
 
 ### Lecture Attendance
-Our goal is to make lectures and office hours worthwhile to attend (e.g. we do in-class exercises). However, lecture attendance is not required. All lectures will be recorded. These will be made available to you (UCSD podcast). 
-
-That said, we have found that students who come to lecture and are engaged fully learn the most (which is our goal!). We also know that students have a lot on their plate (which is why we don't *require* attendance). To this end, we will incentivize lecture attendance. Students who attend 75% of all lectures throughout the quarter will have their lowest assignment score replaced with full credit. Attendance will be tracked through student responses using the ClassQuestion app. To earn credit for a given class day, you must respond to at least 50% of the day's questions. (Correctness does not matter.)
+Our goal is to make lectures and office hours worthwhile to attend. However, lecture attendance is not required. All lectures will be recorded. These will be made available to you (UCSD podcast). 
 
 ### Section Attendance
-Section attendance is not mandatory, however, **if you attend section the week a reading quiz is due, your attendance will earn you full credit for that week's reading quiz**. You *must* fill out the Google Form attendance form in discussion section to earn this credit. We encourage you to also take the corresponding quiz to test your understanding; however, *taking the quiz is not required if you attend section*. Further, groups will be created within sections (usually week 2), so it is helpful to attend discussion section that week. Readings will be discussed and lecture material will be reviewed in section, so it is to your benefit to go, participate, and ask questions.
+Section attendance is not mandatory, however, **if you attend 75% of all discussion sections, you get full discussion section extra credit (worth 3 points)**. You *must* fill out the Google Form attendance form in discussion section to earn this credit. Further, groups will be created within sections (usually week 2), so it is helpful to attend discussion section that week. Readings will be discussed and lecture material will be reviewed in section, so it is to your benefit to go, participate, and ask questions.
 
 ## Course Assignments & Topics
 This class is a survey course intended to get you all excited about becoming data scientists! Data are everywhere and they’re being used in tried-and-true, new, and creative ways. This course will introduce you to the broad topics in data science, discuss what it means to be a data scientist, and get you on your way to thinking like a data scientist.
@@ -155,7 +153,7 @@ This class will be a welcoming, inclusive, and harassment-free experience for ev
 
 At all times, you should be considerate and respectful. Always refrain from demeaning, discriminatory, or harassing behavior and speech. Last of all, take care of each other.
 
-If you have a concern, please speak with Prof Ellis or your TAs. If you are uncomfortable doing so, that’s ok! The [OPHD](https://blink.ucsd.edu/HR/policies/sexual/OPHD.html) (Office for the Prevention of Sexual Harassment and Discrimination) and [CARE](https://care.ucsd.edu/) (confidential advocacy and education office for sexual violence and gender-based violence) are wonderful resources on campus.
+If you have a concern, please speak with Prof Khosla or your TAs. If you are uncomfortable doing so, that’s ok! The [OPHD](https://blink.ucsd.edu/HR/policies/sexual/OPHD.html) (Office for the Prevention of Sexual Harassment and Discrimination) and [CARE](https://care.ucsd.edu/) (confidential advocacy and education office for sexual violence and gender-based violence) are wonderful resources on campus.
 
 
 ### Academic Integrity
@@ -177,7 +175,7 @@ Contacting the OSD can help you further:
 
 ### Difficult Life Situations
 
-Sometimes life outside of academia can be difficult. Please [email me](mailto:sellis@ucsd.edu) or come to office hours if stuff outside the classroom prevents you from doing well inside it. I can often refer you on to the help you need.
+Sometimes life outside of academia can be difficult. Please [email me](mailto:mkhosla@ucsd.edu) or come to office hours if stuff outside the classroom prevents you from doing well inside it. I can often refer you on to the help you need.
 
 If you don't have the most essential resources required to thrive as a student, please contact [UCSD Basic Needs](https://basicneeds.ucsd.edu) who can help you access nutritious food and stable housing, and help you seek the means to reach financial wellness.
 
@@ -189,10 +187,10 @@ If you need counseling or if you are in a mental crisis you can contact [CAPS](h
 **How to Get Your Question(s) Answered and/or Provide Feedback**
 It’s great that we have many ways to communicate, but it can get tricky to figure out who to contact or where your question belongs, or when to expect a response. These guidelines are to help you get your question answered as quickly as possible and to ensure that we’re able to get to everyone’s questions.
 
-That said, to ensure that we’re respecting their time, TAs and IAs have been instructed they’re only obligated to answer questions between normal working hours (M-F 9am-5pm). However, I know that’s not when you may be doing your work. So, please feel free to reach out whenever is best for you while knowing that, you may not get a response until the next day. As such, do your best not to wait until the last minute to ask a question. If there is an emergency and you need to contact staff immediately, email Prof Ellis and put "EMERGENCY-COGS9" in the subject line. I will get back to you ASAP.
+That said, to ensure that we’re respecting their time, TAs and IAs have been instructed they’re only obligated to answer questions between normal working hours (M-F 9am-5pm). However, I know that’s not when you may be doing your work. So, please feel free to reach out whenever is best for you while knowing that, you may not get a response until the next day. As such, do your best not to wait until the last minute to ask a question. If there is an emergency and you need to contact staff immediately, email Prof Khosla and put "EMERGENCY-COGS9" in the subject line. I will get back to you ASAP.
 
 If you have…
 - **questions about course content** - these are awesome! We want everyone to see them and have their questions answered, please post questions on Piazza or ask during class/office hours.
 - **questions about course logistics** - first, check the syllabus. If the answer is not there, ask in Section, ask a classmate, or ask during class/office hours.
-- **something super cool to share related to class** - feel free message on Piazza, email Prof Ellis [sellis@ucsd.edu](sellis@ucsd.edu)), or come to office hours. Be sure to include COGS 9 in the email subject line and your full name in your message.
-- **something you want to talk about in-depth** - meet in person/digitally during office hours or schedule a time to meet 1:1 by email. Be sure to include COGS 9 in the email subject line. Or it may be missed. [sellis@ucsd.edu](sellis@ucsd.edu). 
+- **something super cool to share related to class** - feel free message on Piazza, email Prof Khosla ([mkhosla@ucsd.edu](mkhosla@ucsd.edu)), or come to office hours. Be sure to include COGS 9 in the email subject line and your full name in your message.
+- **something you want to talk about in-depth** - meet in person/digitally during office hours or schedule a time to meet 1:1 by email. Be sure to include COGS 9 in the email subject line. Or it may be missed. [mkhosla@ucsd.edu](mkhosla@ucsd.edu). 

@@ -1,0 +1,129 @@
+# Welcome section
+quarter: Winter 2024
+building: SOLIS 107
+timings: M & W & F 3:00-3:50PM
+piazza_link: https://piazza.com/ucsd/winter2024/39
+piazza_entry_code: g3w0wjexe65
+classquestion_code: QJZJD
+gradescope_link: https://www.gradescope.com/courses/696283
+gradescope_entry_code: EJDJ8B
+pre_course_survey: https://forms.gle/TEnqU91WbmQ7qGbz6
+cogsadvising: cogsadvising@ucsd.edu
+
+instructor:
+  name: Meenakshi Khosla
+  email: mkhosla@ucsd.edu
+  type: Instructor
+  office_hours:
+    - day: W
+      time: 4:30-6:30PM
+      location: CSB 247
+
+
+teaching_assistants:
+  - name: Sirui Tao
+    email: s1tao@ucsd.edu
+    type: TA
+    office_hours:
+      - day: Mon
+        time: 5:00-7:00PM
+        location: CSB 114
+        
+  - name: Neha Mittal
+    email: n2mittal@ucsd.edu
+    type: TA
+    office_hours:
+      - day: Wed
+        time: 1:00-3:00PM
+        location: CSB 114
+  - name: Prasannakumaran Dhanasekaran
+    email: pdhanasekaran@ucsd.edu
+    type: TA
+    office_hours:
+      - day: Fri
+        time: TBD
+        location: CSB 114
+        # zoom_link: https://ucsd.zoom.us/j/3037643310
+        # zoom_pw:
+
+
+
+instructional_assistants:
+  - name: Zeyu Qi
+    email: zeqi@ucsd.edu
+    type: IA
+    office_hours:
+      - day: TBD
+        time: TBD
+        location: TBD
+        # zoom_link: https://ucsd.zoom.us/j/4202369014?pwd=NkhFUG5CUWJPN2hiTE83cCtraGdWZz09
+        # zoom_pw: a2WM2F
+  - name: Hsin-Yuan Lee
+    email: hsl023@ucsd.edu
+    type: IA
+    office_hours:
+      - day: TBD
+        time: TBD
+        location: TBD
+        # zoom_link: https://ucsd.zoom.us/j/4202369014?pwd=NkhFUG5CUWJPN2hiTE83cCtraGdWZz09
+        # zoom_pw: a2WM2F
+  - name: Parth Sandeep
+    email: psandeep@ucsd.edu
+    type: IA
+    office_hours:
+      - day: TBD
+        time: TBD
+        location: TBD
+        # zoom_link: https://ucsd.zoom.us/j/95755676306?pwd=RjBQZUNDejVaT0ZzSno2VUNLc0ZFZz09
+        # zoom_pw: 804882
+
+
+discussion_sections:
+  - section: A01
+    day: Mon
+    time: 10:00-10:50AM
+    location: RWAC 0115
+    ta: Sirui 
+    ia: Samuel
+    materials:  Coming soon!
+
+  - section: A02
+    day: Mon
+    time: 11:00-11:50AM
+    location: RWAC 0115
+    ta: Sirui
+    ia: Parth 
+    materials:  Coming soon!
+
+  - section: A03
+    day: Mon
+    time: 5:00-5:50PM
+    location: RWAC 0115
+    ta: Prasanna
+    ia: Parth
+    materials: Coming soon!
+
+  - section: A04
+    day: Wed
+    time: 10:00-10:50AM
+    location: RWAC 0115
+    ta: Neha 
+    ia: Samuel
+    materials: Coming soon!
+
+  - section: A05
+    day: Wed
+    time: 11:00-11:50PM
+    location: RWAC 0115
+    ta: Neha
+    ia: Zeyu
+    materials: Coming soon!
+
+  - section: A06
+    day: Wed
+    time: 4:00-4:50PM
+    location: RWAC 0115
+    ta: Prasanna
+    ia: Zeyu
+    materials: Coming soon!
+
