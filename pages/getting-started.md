@@ -20,7 +20,7 @@ permalink: /getting started
    - Entry code:  **{{ variables.piazza_entry_code }}**
    - Can also be accessed directly from the module on Canvas
 3. Access **Gradescope**
-   -  Can be accessed directly from the module on Canvas
+   -  Can be accessed directly from the module on Canvas. Entry code is EJDJ8B
 4. Start Reading 1, it is a very long reading, the longest by far!
 5. Make sure you attend the discussion sections during week 2; we will be forming project groups and you'll want to meet your group mates
 6. Fill out the **[pre-course survey]({{ variables.pre_course_survey }})** so we can start to get to know you better. And, stop by one of the office hours or come up to the front of the class before or after to say hi and introduce yourself! I'd love to meet and get to know you.
