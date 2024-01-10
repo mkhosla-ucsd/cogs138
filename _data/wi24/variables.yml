@@ -40,10 +40,10 @@ teaching_assistants:
     email: pdhanasekaran@ucsd.edu
     type: TA
     office_hours:
-      - day: TBD
-        time: TBD
-        location: CSB 114
-        # zoom_link: https://ucsd.zoom.us/j/3037643310
+      - day: Thur
+        time: 9:30-11:30AM
+        #location: CSB 114
+        zoom_link: https://ucsd.zoom.us/j/98430701488
         # zoom_pw:
 
 
