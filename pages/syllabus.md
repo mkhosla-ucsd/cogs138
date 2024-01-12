@@ -89,9 +89,8 @@ This class is a survey course intended to get you all excited about becoming dat
 Quizzes cover the reading material assigned, e.g. Quiz 1 only covers material from reading 1 (R1).
 
 - Five multiple choice (10 questions) quizzes
-- Available for 48 hours
 - You have 1 hour to finish
-- One attempt
+- Three attempts
 - Open notes, but you must work alone.
 - Taken and submitted through Gradescope
 
