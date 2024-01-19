@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/syllabus.md",
+                "file": "pages/readings/reading-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/syllabus.md",
+                "file": "pages/readings/reading-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/syllabus.md",
+                "file": "pages/readings/reading-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/syllabus.md"
+                "file": "pages/readings/reading-1.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "1bbc54720f382baf",
   "lastOpenFiles": [
+    "pages/exam.md",
+    "pages/final-project.md",
+    "pages/office-hours.md",
+    "pages/assignments.md",
+    "pages/readings.md",
+    "pages/syllabus.md",
     "index.md",
     "_data/wi24/ course_calendar.csv",
     "_data/wi24/new.csv",
@@ -165,12 +171,6 @@
     "pages/final-project/part-two.md",
     "pages/final-project/project-faq.md",
     "pages/readings/reading-1.md",
-    "pages/assignments.md",
-    "pages/exam.md",
-    "pages/final-project.md",
-    "pages/office-hours.md",
-    "pages/readings.md",
-    "pages/syllabus.md",
     "{{.md",
     "dev-docs/{{.md",
     "dev-docs/sellis@ucsd.edu.md",
