@@ -85,7 +85,7 @@ discussion_sections:
     location: RWAC 0115
     ta: Sirui 
     ia: Samuel
-    materials:  Coming soon!
+    materials:  https://github.com/DylanTao/cogs9_wi2024
 
   - section: A02
     day: Mon
@@ -93,7 +93,7 @@ discussion_sections:
     location: RWAC 0115
     ta: Sirui
     ia: Parth 
-    materials:  Coming soon!
+    materials:  https://github.com/DylanTao/cogs9_wi2024
 
   - section: A03
     day: Mon
@@ -101,7 +101,7 @@ discussion_sections:
     location: RWAC 0115
     ta: Prasanna
     ia: Parth
-    materials: Coming soon!
+    materials: https://github.com/PrasannaKumaran/COGS-9---WI24
 
   - section: A04
     day: Wed
@@ -109,7 +109,7 @@ discussion_sections:
     location: RWAC 0115
     ta: Neha 
     ia: Samuel
-    materials: Coming soon!
+    materials: https://github.com/n2mittal/COGS9-Wi24
 
   - section: A05
     day: Wed
@@ -117,7 +117,7 @@ discussion_sections:
     location: RWAC 0115
     ta: Neha
     ia: Zeyu
-    materials: Coming soon!
+    materials: https://github.com/n2mittal/COGS9-Wi24
 
   - section: A06
     day: Wed
@@ -125,5 +125,5 @@ discussion_sections:
     location: RWAC 0115
     ta: Prasanna
     ia: Zeyu
-    materials: Coming soon!
+    materials: https://github.com/PrasannaKumaran/COGS-9---WI24
 
