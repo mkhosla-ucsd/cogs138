@@ -41,8 +41,8 @@ teaching_assistants:
     type: TA
     office_hours:
       - day: Thur
-        time: 9:30-11:30AM
-        #location: CSB 114
+        time: 4:00-6:00PM
+        location: CSB 114
         zoom_link: https://ucsd.zoom.us/j/98430701488
         # zoom_pw:
 
