@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c8ecc38699277780",
+        "id": "0eb28c16e91b113c",
         "type": "tabs",
         "children": [
           {
-            "id": "1bbc54720f382baf",
+            "id": "14078f483ff05f04",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/readings/reading-1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/readings/reading-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/readings/reading-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "pages/readings/reading-1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1bbc54720f382baf",
+  "active": "14078f483ff05f04",
   "lastOpenFiles": [
+    "pages/assignments/assignment-1.md",
+    "pages/readings/reading-1.md",
     "pages/exam.md",
     "pages/final-project.md",
     "pages/office-hours.md",
@@ -170,11 +164,9 @@
     "pages/final-project/part-one.md",
     "pages/final-project/part-two.md",
     "pages/final-project/project-faq.md",
-    "pages/readings/reading-1.md",
     "{{.md",
     "dev-docs/{{.md",
     "dev-docs/sellis@ucsd.edu.md",
-    "pages/assignments/assignment-1.md",
     "pages/readings/reading-2.md",
     "pages/readings/reading-4.md",
     "pages/readings/reading-3.md"
