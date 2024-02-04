@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0eb28c16e91b113c",
+        "id": "32a7e60e6837aa8b",
         "type": "tabs",
         "children": [
           {
-            "id": "14078f483ff05f04",
+            "id": "fc9488c21709a677",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/readings/reading-3.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/readings/reading-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/readings/reading-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "pages/readings/reading-3.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,13 +138,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14078f483ff05f04",
+  "active": "fc9488c21709a677",
   "lastOpenFiles": [
+    "pages/readings/reading-3.md",
     "pages/final-project/part-one.md",
     "pages/final-project/group-work.md",
     "pages/final-project/part-two.md",
     "pages/final-project/project-faq.md",
-    "pages/readings/reading-3.md",
     "pages/assignments/assignment-1.md",
     "pages/readings/reading-1.md",
     "pages/exam.md",
