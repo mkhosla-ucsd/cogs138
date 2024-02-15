@@ -14,12 +14,12 @@ date,title,label,link
 24/2/2,Quiz 2 due,QUIZ,
 24/2/2,Data Visualization ,LECT,https://drive.google.com/file/d/1ZNHoCyafmcNOL_E4kb86yiYIXnol2FPs/view?usp=sharing
 24/2/5,Descriptive Analysis ,LECT,https://drive.google.com/file/d/1dZnXorO3mHcLTs1tggE6NFs_t3xgRSmJ/view?usp=sharing
-24/2/7,Exploratory Data Analysis,GLCT,https://drive.google.com/file/d/1Om8FZiWzg8Ok3UoUpGIA87bPbVrKX7ou/view?usp=sharing
+24/2/7,Exploratory Data Analysis,LECT,https://drive.google.com/file/d/1Om8FZiWzg8Ok3UoUpGIA87bPbVrKX7ou/view?usp=sharing
 24/2/9,Data Science Communication,LECT,https://drive.google.com/file/d/1P4S1Lx7geLoBMby3mveJGJWj2tBY9P_2/view?usp=sharing
 24/2/10,Quiz 3 due,QUIZ,
-24/2/12,Guest Lecture (Dr. On Amir) ,LECT,
+24/2/12,Guest Lecture (Dr. On Amir) ,GLCT,
 24/2/12,Assignment 1 due,ASSG,
-24/2/14,Guest Lecture (Vijay Veerabadran),LECT,
+24/2/14,Guest Lecture (Vijay Veerabadran),GLCT,
 24/2/16,Analytical Approaches & Inference ,LECT,
 24/2/16,Final Project Part 1 due,PROJ,
 24/2/19,No class! (Presidents Day),CNCL,
@@ -31,11 +31,11 @@ date,title,label,link
 24/2/28,Text Analysis I,LECT,
 24/3/1,Text Analysis II,LECT,
 24/3/1,Quiz 5 due,QUIZ,
-24/3/4,Guest Lecture (Victor Minces),LECT,
+24/3/4,Guest Lecture (Victor Minces),GLCT,
 24/3/6,Network Analysis,LECT,
-24/3/8,Giving a Data Science Talk/ Neural Networks (TBD),GLCT,
+24/3/8,Giving a Data Science Talk/ Neural Networks (TBD),LECT,
 24/3/8,Assignment 3 due,ASSG,
-24/3/11,Guest Lecture (Dr. Hao Zhang),LECT,
+24/3/11,Guest Lecture (Dr. Hao Zhang),GLCT,
 24/3/13,Algorithms and Computability,LECT,
 24/3/15,Future of Data Science,LECT,
 24/3/15,Final Project Part 2 due,PROJ,
