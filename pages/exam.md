@@ -15,7 +15,7 @@ The exam is an open note exam, to be taken at the comfort of your own home. Once
 
 To help students, since this is an intro class and we cover a **wide** range of topics, I make available a study guide to help you wrangle in all those key high level topics. It is up to you to flesh it out more, and fill in the details.
 
-- Exam study guide: https://docs.google.com/document/d/1nrhAEsNEdalauVgVVEw-MpukTl4_qn2ELvAgkRx0h0M/edit?usp=sharing
+- Exam study guide:[Link](https://docs.google.com/document/d/1nrhAEsNEdalauVgVVEw-MpukTl4_qn2ELvAgkRx0h0M/edit?usp=sharing)
 
 {: .warning }
 You do not have to show up anywhere on the date and time of the scheduled final exam. The take-home final exam will be due on the day of the final at 11:59 PM. See the course calendar for the exact date.
