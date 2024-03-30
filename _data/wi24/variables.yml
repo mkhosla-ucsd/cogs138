@@ -1,7 +1,7 @@
 # Welcome section
-quarter: Winter 2024
-building: SOLIS 107
-timings: M & W & F 3:00-3:50PM
+quarter: Spring 2024
+building: PETER 104
+timings: M & W & F 10:00-10:50PM
 piazza_link: https://piazza.com/ucsd/winter2024/39
 piazza_entry_code: g3w0wjexe65
 classquestion_code: QJZJD
@@ -21,14 +21,6 @@ instructor:
 
 
 teaching_assistants:
-  - name: Sirui Tao
-    email: s1tao@ucsd.edu
-    type: TA
-    office_hours:
-      - day: Mon
-        time: 12:00-1:00PM, 6:00-7:00PM
-        location: CSB 114
-        
   - name: Neha Mittal
     email: n2mittal@ucsd.edu
     type: TA
@@ -36,21 +28,11 @@ teaching_assistants:
       - day: Tu
         time: 1:00-3:00PM
         location: CSB 114
-  - name: Prasannakumaran Dhanasekaran
-    email: pdhanasekaran@ucsd.edu
-    type: TA
-    office_hours:
-      - day: Thur
-        time: 4:00-6:00PM
-        location: CSB 114
-        zoom_link: https://ucsd.zoom.us/j/98430701488
-        # zoom_pw:
-
-
+  
 
 instructional_assistants:
-  - name: Zeyu Qi
-    email: zeqi@ucsd.edu
+  - name: TBA
+    email: TBA
     type: IA
     office_hours:
       - day: TBD
@@ -58,72 +40,15 @@ instructional_assistants:
         location: TBD
         # zoom_link: https://ucsd.zoom.us/j/4202369014?pwd=NkhFUG5CUWJPN2hiTE83cCtraGdWZz09
         # zoom_pw: a2WM2F
-  - name: Hsin-Yuan Lee
-    email: hsl023@ucsd.edu
-    type: IA
-    office_hours:
-      - day: TBD
-        time: TBD
-        location: TBD
-        # zoom_link: https://ucsd.zoom.us/j/4202369014?pwd=NkhFUG5CUWJPN2hiTE83cCtraGdWZz09
-        # zoom_pw: a2WM2F
-  - name: Parth Sandeep
-    email: psandeep@ucsd.edu
-    type: IA
-    office_hours:
-      - day: TBD
-        time: TBD
-        location: TBD
-        # zoom_link: https://ucsd.zoom.us/j/95755676306?pwd=RjBQZUNDejVaT0ZzSno2VUNLc0ZFZz09
-        # zoom_pw: 804882
-
+  
 
 discussion_sections:
   - section: A01
     day: Mon
-    time: 10:00-10:50AM
-    location: RWAC 0115
-    ta: Sirui 
-    ia: Samuel
-    materials:  https://github.com/DylanTao/cogs9_wi2024
-
-  - section: A02
-    day: Mon
-    time: 11:00-11:50AM
-    location: RWAC 0115
-    ta: Sirui
-    ia: Parth 
-    materials:  https://github.com/DylanTao/cogs9_wi2024
-
-  - section: A03
-    day: Mon
-    time: 5:00-5:50PM
-    location: RWAC 0115
-    ta: Prasanna
-    ia: Parth
-    materials: https://github.com/PrasannaKumaran/COGS-9---WI24
-
-  - section: A04
-    day: Wed
-    time: 10:00-10:50AM
-    location: RWAC 0115
+    time: 9:00-9:50AM
+    location: RWAC 0121
     ta: Neha 
-    ia: Samuel
-    materials: https://github.com/n2mittal/COGS9-Wi24
+    ia: TBA
+    materials: 
 
-  - section: A05
-    day: Wed
-    time: 11:00-11:50PM
-    location: RWAC 0115
-    ta: Neha
-    ia: Zeyu
-    materials: https://github.com/n2mittal/COGS9-Wi24
-
-  - section: A06
-    day: Wed
-    time: 4:00-4:50PM
-    location: RWAC 0115
-    ta: Prasanna
-    ia: Zeyu
-    materials: https://github.com/PrasannaKumaran/COGS-9---WI24
-
+  
