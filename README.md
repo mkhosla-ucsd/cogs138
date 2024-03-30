@@ -1,7 +1,7 @@
 [![Deploy Jekyll site to Pages](https://github.com/COGS9/ucsd-cogs9/actions/workflows/jekyll.yml/badge.svg)](https://github.com/COGS9/ucsd-cogs9/actions/workflows/jekyll.yml)
 
-# ucsd-cogs9
-Class Website for UCSD's COGS 9 Introduction to Data Science
+# ucsd-cogs138
+Class Website for UCSD's COGS 138 Neural Data Science
 
 
 ## Up and Running

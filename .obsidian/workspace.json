@@ -11,8 +11,12 @@
             "id": "fc9488c21709a677",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "mkhosla@ucsd.edu.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "mkhosla@ucsd.edu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "mkhosla@ucsd.edu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "mkhosla@ucsd.edu.md"
+              }
             }
           }
         ]
@@ -140,35 +148,36 @@
   },
   "active": "fc9488c21709a677",
   "lastOpenFiles": [
-    "pages/readings/reading-3.md",
-    "pages/final-project/part-one.md",
-    "pages/final-project/group-work.md",
-    "pages/final-project/part-two.md",
-    "pages/final-project/project-faq.md",
-    "pages/assignments/assignment-1.md",
-    "pages/readings/reading-1.md",
-    "pages/exam.md",
-    "pages/final-project.md",
-    "pages/office-hours.md",
-    "pages/assignments.md",
-    "pages/readings.md",
-    "pages/syllabus.md",
     "index.md",
+    "pages/final-project.md",
+    "pages/assignments.md",
+    "pages/readings/reading-4.md",
+    "pages/readings/reading-5.md",
+    "pages/exam.md",
+    "pages/syllabus.md",
+    "pages/readings/reading-3.md",
+    "pages/readings/reading-2.md",
+    "pages/readings/reading-1.md",
+    "pages/final-project/group-work.md",
+    "pages/final-project/example-datasets.md",
+    "pages/final-project/part-one.md",
+    "pages/getting-started.md",
+    "pages/office-hours.md",
+    "pages/readings.md",
+    "pages/final-project/project-faq.md",
+    "README.md",
+    "pages/final-project/part-two.md",
+    "pages/assignments/assignment-1.md",
     "_data/wi24/ course_calendar.csv",
     "_data/wi24/new.csv",
     "_data/wi24/course_calendar 2.csv",
     "_data/wi24/course_calendar.csv",
     "_data/wi24/~$course_calendar.xlsx",
     "_data/wi24/course_calendar.xlsx",
-    "README.md",
     "mkhosla@ucsd.edu.md",
     "dev-docs/mkhosla@ucsd.edu.md",
-    "pages/getting-started.md",
-    "pages/final-project/example-datasets.md",
     "{{.md",
     "dev-docs/{{.md",
-    "dev-docs/sellis@ucsd.edu.md",
-    "pages/readings/reading-2.md",
-    "pages/readings/reading-4.md"
+    "dev-docs/sellis@ucsd.edu.md"
   ]
 }

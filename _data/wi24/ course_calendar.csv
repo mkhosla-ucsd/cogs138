@@ -1,42 +1,43 @@
 date,title,label,link
-24/1/8,What is Data Science,LECT,https://drive.google.com/file/d/1m2MMW3Ah63b6-8RXHwVSLecxi0Ktd6BY/view?usp=sharing
-24/1/10,Ethics,LECT,https://drive.google.com/file/d/1WeGAsso0y-zqa5ZcbuEgd1_qgbuIsCns/view?usp=sharing
-24/1/12,Data Science Questions,LECT,https://drive.google.com/file/d/1h7c6Mps8hEgVkTXwzsJDzOGq-nwiQUfu/view?usp=sharing
-24/1/15,No class! (MLK Holiday),CNCL,
-24/1/17,Reproducibility,LECT,https://drive.google.com/file/d/1w5XnqaJP_DZWwVsVnRyzTQ7BsZn-3M7H/view?usp=sharing
-24/1/19,Data & Data Types,LECT,https://drive.google.com/file/d/1qckjW-WqxNxooiy5hkEmI4FBn1WvBSwc/view?usp=sharing
-24/1/22,Data (ctd.) & Getting Data,LECT,https://drive.google.com/file/d/1TW3VnkT2PXhFyUwc3EhmSEYfOmWJvKXb/view?usp=sharing
-24/1/24,Getting Data,LECT,https://drive.google.com/file/d/1uny6shIYQWmO5dLrvwjO8nuXRXnQFqKy/view?usp=sharing
-24/1/26,Data Wrangling ,LECT,https://drive.google.com/file/d/1efATrW7wpnBsTycfj29xohyOkkR0VFD1/view?usp=sharing
-24/1/26,Quiz 1 due,QUIZ,
-24/1/29,Programming and Version Control,LECT,https://drive.google.com/file/d/1ME_lpxIIug9cdV1n7UQwBcfjedUJAm0J/view?usp=sharing
-24/1/31,Version Control ,LECT,https://drive.google.com/file/d/1deehwP5Pl9Ofl9B6l-yaKJ8WaI6pH0Ox/view?usp=sharing
-24/2/2,Quiz 2 due,QUIZ,
-24/2/2,Data Visualization ,LECT,https://drive.google.com/file/d/1ZNHoCyafmcNOL_E4kb86yiYIXnol2FPs/view?usp=sharing
-24/2/5,Descriptive Analysis ,LECT,https://drive.google.com/file/d/1dZnXorO3mHcLTs1tggE6NFs_t3xgRSmJ/view?usp=sharing
-24/2/7,Exploratory Data Analysis,LECT,https://drive.google.com/file/d/1Om8FZiWzg8Ok3UoUpGIA87bPbVrKX7ou/view?usp=sharing
-24/2/9,Data Science Communication,LECT,https://drive.google.com/file/d/1P4S1Lx7geLoBMby3mveJGJWj2tBY9P_2/view?usp=sharing
-24/2/10,Quiz 3 due,QUIZ,
-24/2/12,Guest Lecture (Dr. On Amir) ,GLCT,https://docs.google.com/presentation/d/1fjWycjCP_wkw2a0bGf_fqrMd3zftYHKe/edit?usp=sharing&ouid=115126578011530474255&rtpof=true&sd=true
-24/2/12,Assignment 1 due,ASSG,
-24/2/14,Guest Lecture (Vijay Veerabadran),GLCT,https://docs.google.com/presentation/d/1Pou5InOgSZiEYtRofYpRd13sRL40C9cs/edit?usp=sharing&ouid=115126578011530474255&rtpof=true&sd=true
-24/2/16,Analytical Approaches & Inference ,LECT,https://drive.google.com/file/d/1G9UA2k7KRaprGxA79ZzbusKUYbH24SCz/view?usp=sharing
-24/2/16,Final Project Part 1 due,PROJ,
-24/2/19,No class! (Presidents Day),CNCL,
-24/2/21,Machine Learning I,LECT,https://drive.google.com/file/d/14-xuR8p5mXivM52VjypE2J2AixCDuf02/view?usp=sharing
-24/2/23,Machine Learning II,LECT,https://drive.google.com/file/d/1kiISfUk70piO42XPdPw_gc858DLeDh3Q/view?usp=sharing
-24/2/23,Quiz 4 due,QUIZ,
-24/2/26,Machine Learning III,LECT,https://drive.google.com/file/d/1oAbv_BsYtSI1IoWkmEl_9pHEt9iEQ0kO/view?usp=sharing
-24/2/26,Assignment 2 due,ASSG,
-24/2/28,Machine Learning IV (Deep Learning),LECT,https://drive.google.com/file/d/1gnDD548o2F8g_O__RfkRAQzWnkguGpe_/view?usp=sharing
-24/3/1,Geospatial Analysis ,LECT,https://drive.google.com/file/d/1ueNGxlTiVnVweovyJJdLpbFit-ddNY2h/view?usp=sharing
-24/3/1,Quiz 5 due,QUIZ,
-24/3/4,Guest Lecture (Victor Minces),GLCT,https://docs.google.com/presentation/d/1ThTmMrcy6pB34oAuMu4lKTkt_4ghIduyJ3elrZg_2T8/edit?usp=sharing
-24/3/6,Text Analysis-I,LECT,https://drive.google.com/file/d/10O8pMwSy9209mP4a9pCctCYIVXa8oGpL/view?usp=sharing
-24/3/8,Text Analysis-II,LECT,https://drive.google.com/file/d/1YmR9Na-so1Y_m3yRA0jNqZbIqvleg3HA/view?usp=sharing
-24/3/8,Assignment 3 due,ASSG,
-24/3/11,Guest Lecture (Dr. Hao Zhang),GLCT,
-24/3/13,Algorithms and Computability,LECT,https://drive.google.com/file/d/15WWBhN2uxKtw0ZLooPaVpeags7weXFKq/view?usp=sharing
-24/3/15,Future of Data Science,LECT,https://drive.google.com/file/d/1yFuP9fMxoUEDPV9HPh2UJbBGU4S8otKU/view?usp=sharing
-24/3/15,Final Project Part 2 due,PROJ,
-24/3/23,Take-Home Exam,EXAM,
+24/4/1,Introductory Lecture,LECT,
+24/4/3,Python Fundamentals I,LECT,
+24/4/5,Python Fundamentals II,LECT,
+24/4/8,Python Fundamentals III,LECT,
+24/4/10,Python Libraries I,LECT,
+24/4/12,Python Libraries II,LECT,
+24/4/12,Quiz 1 due,QUIZ,
+24/4/15,Neural Data Science Questions,LECT,
+24/4/15,Assignment 1 due,ASSG,
+24/4/17,Overview of types of neural data I,LECT,
+24/4/19,Overview of types of neural data II,LECT,
+24/4/19,Quiz 2 due,QUIZ,
+24/4/22,Tools for Neural Data Science I (NWB and BIDS),LECT,
+24/4/24,Tools for Neural Data Science II (Version Control),LECT,
+24/4/26,Data Visualization + e.g. Allen Cell Types,LECT,
+24/4/29,Assignment 2 due,ASSG,
+24/4/29,Data Visualization + e.g. Calcium Imaging Data,LECT,
+24/5/1,Descriptive & Exploratory Data Analysis + e.g. spiking activity ,LECT,
+24/5/3,Statistical Analysis ,LECT,
+24/5/3,Quiz 3 due,QUIZ,
+24/5/6,Final Project Proposal due,PROJ,
+24/5/6,Statistical Analysis (Correlations) + e.g. Neuropixels,LECT,
+24/5/8,Machine Learning Intro,LECT,
+24/5/10,Clustering & Dimensionality Reduction ,LECT,
+24/5/13,Assignment 3 due,ASSG,
+24/5/13,Guest Lecture (Tentative),GLCT,
+24/5/15,Clustering & Dimensionality Reduction in Neuroscience (e.g.electrophysiology data),LECT,
+24/5/17,Functional neuroimaging in humans ,LECT,
+24/5/20,Clustering & dimensionality Reduction in Neuroscience (e.g. fMRI data),LECT,
+24/5/22,Clustering & dimensionality Reduction in Neuroscience (resting-state fMRI analysis),LECT,
+24/5/24,Supervised Machine Learning ,LECT,
+24/5/24,Quiz 4 due,QUIZ,
+24/5/27,Assignment 4 due,ASSG,
+24/5/27,No Class (Memorial Day),CNCL,
+24/5/29,Supervised Machine Learning in Neuroscience (Encoding analysis),LECT,
+24/5/31,Supervised Machine Learning in Neuroscience (Decoding analysis),LECT,
+24/6/3,Assignment 5 due,ASSG,
+24/6/3,Guest Lecture (Tentative),GLCT,
+24/6/5,Final Project Presentations I,LECT,
+24/6/7,Final Project Presentations II,LECT,
+24/6/7,Final Project Notebook due,PROJ,
+24/6/10,Take-Home Exam,EXAM,
