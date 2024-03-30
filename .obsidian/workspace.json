@@ -148,11 +148,11 @@
   },
   "active": "fc9488c21709a677",
   "lastOpenFiles": [
+    "vendor/bundle/ruby/3.2.0/bundler.lock",
+    "_posts/0000-00-00-welcome-to-jekyll.markdown.erb",
     "dev-docs/assets/minima-social-icons.svg",
     "dev-docs/assets/main.css.map",
     "dev-docs/assets/main.css",
-    "vendor/bundle/ruby/3.2.0/bundler.lock",
-    "_posts/0000-00-00-welcome-to-jekyll.markdown.erb",
     "dev-docs/exam/index.html",
     "dev-docs/assignments/index.html",
     "dev-docs/assignments",
