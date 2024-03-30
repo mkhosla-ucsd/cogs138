@@ -148,6 +148,7 @@
   },
   "active": "fc9488c21709a677",
   "lastOpenFiles": [
+    "_config.yml.sb-493da545-Z9tHrG",
     "vendor/bundle/ruby/3.2.0/bundler.lock",
     "_posts/2024-03-30-welcome-to-jekyll.markdown",
     "_posts/0000-00-00-welcome-to-jekyll.markdown.erb",
@@ -178,7 +179,6 @@
     "_data/wi24/course_calendar 2.csv",
     "_data/wi24/course_calendar.csv",
     "_data/wi24/~$course_calendar.xlsx",
-    "_data/wi24/course_calendar.xlsx",
     "mkhosla@ucsd.edu.md",
     "dev-docs/mkhosla@ucsd.edu.md",
     "{{.md",
