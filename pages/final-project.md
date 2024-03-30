@@ -8,8 +8,12 @@ permalink: /final-group-project/
 
 # Final Group Project
 
-For your Final Project, I want you to identify neuroscientific questions that are addressable by publicly available datasets. Specifically, you are required to choose between two options: 
-- Choose a paper that uses a new data analysis technique that has been published no more than 10 years ago (most should have code and data publicly available). Implement this method using a new data set (either your own or from a publicly available source).
-- Come up with a neuroscientific research question of your own that is answerable with available data. You can look at some of the public datasets to frame your question. Determine an analytical approach that can be used to answer your question and implement this method.  
+For your Final Project, I want you to explore the various approaches to Data Science you will be learning this quarter. Specifically, you are required to outline how you would integrate a variety of Data Scientific methods and theories in a project addressing a novel question that can be answered using data. Imagine you knew all the ins-and-outs of Data Science, data mining, analysis, programming, and statistics, and write your final outlining your question, hypothesis, overall approach, analysis, and conclusion.
 
-You will turn in one PDF as a group into Gradescope by the due date for the proposal and one jupyter notebook as a group into datahub for the final component of the project. There are no late submissions accepted for the notebook submission, unless there is an issue outside of your control. If so, email your course instructor and all your teammates before the due date.
+Your question could be purely scientific (e.g., "How do different cultures perceive different colors?"), just interesting (e.g., "What are commonly misheard song lyrics?"), or statistical (e.g., "How big do crowds need to be for reliable estimates of different kinds of questions?").
+
+Your Final Project will have the following sections: Question, Hypothesis, Background Information, Data, Ethical Considerations, Analysis Proposal, Discussion, Group Participation
+
+Remember to proofread your essays and that you are not using overly flowery and/or vague language. Use as few words as possible, but no less, to describe your approach. Concision is key, you wouldn’t over engineer a system. Correct? Why would you over engineer your prose? Think Hemmingway, not Faulkner. A small portion of your grade will be dependent on your ability to write clearly, logically, and without errors that should be caught during proofreading.
+
+You will turn in one PDF as a group into Gradescope by the due date for part 1 and part 2. There are no late submissions accepted, unless there is an issue outside of your control. If so, email your course instructor and all your teammates before the due date.

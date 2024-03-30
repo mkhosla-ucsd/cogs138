@@ -7,101 +7,22 @@ nav_order: 1
 permalink: /final-group-project/part-one
 ---
 
-<h1>Final Project</h1>
-For the final project, you will work in groups of 3-4 members. You have two options: 
-- Choose a paper that uses a new data analysis technique that has been published no more than 10 years ago (most should have code and data publicly available). Implement this method using a new data set (either your own or from a publicly available source).
-- Come up with a neuroscientific research question of your own that is answerable with available data. You can look at some of the public datasets to frame your question. Determine an analytical approach that can be used to answer your question and implement this method.  
+<h1>Final Part 1</h1>
 
-#### The broad goals of this project are to:
+- Project part 1 Google Doc <a href="https://docs.google.com/document/d/1w35JUgmvKnc1hzfg309eRrfCosUR2Gi-J4HWthtrx8U/edit?usp=sharing" target="_blank" rel="noopener">view &#x2197;</a>
 
--  Identify questions that are addressable by publicly available datasets
-- Integrate datasets to address a scientific question
-- Implement the technical skills you’ve learned
-- Work effectively with a team
 
 <h2>Instructions</h2>
+During week 2, project groups will be formed during discussion section. If you are not able to attend section this week, you will be placed into a group by the end of the week. As groups will still be somewhat in flux during the first 2 weeks of class (late adds/drops) make sure there is some flexibility in your planning. Reach out to your TA or IA early if there are any issues with group members dropping. Sometimes a group member will not tell their group they dropped the class and just go into silent mode. If you are unsure, ask your TA and they can verify the student's status.
 
-Project proposal template <a href="https://docs.google.com/document/d/1oKV6Hm2jeYN83XQF5tKj7KG5GDHHqW7Yle2v3XGnwLU/edit?usp=sharing" target="_blank" rel="noopener">view &#x2197;</a>
+Click the link above to open the Google Doc for part one. You can not edit this document, you must create a duplicate of it in your own Google Drive. Your group will work out of this document. When ready to submit, save/export the document as a PDF, and turn it in as one submission (per group) in Gradescope. You may resubmit the document as many times as you like before the deadline.
 
-Click the link above to open the Google Doc for project proposal. You can not edit this document, you must create a duplicate of it in your own Google Drive. Your group will work out of this document. When ready to submit, save/export the document as a PDF, and turn it in as one submission (per group) in Gradescope. You may resubmit the document as many times as you like before the deadline.
-
-The first part (proposal) was meant to get you and your group started on your final project. 
-
-Project notebook template <a href="https://drive.google.com/file/d/1StGxGN6KbznDSnWyP5hovj0hGZ9gaBHD/view?usp=sharing" target="_blank" rel="noopener">view &#x2197;</a>
-
-Your final product for this project will be a Jupyter Notebook that walks us through the steps of your analysis to answer your experimental question about the difference between two different cell types or brains or whatever you choose to focus on. Ultimately, you should generate three different plots that concisely address your experimental question.
-
-In addition to parts that wrangle, analyze, and visualize the data, your notebook should have a **background section** (similar to the one in your proposal, but updated as your project evolves) and a **short discussion section** that summarizes your findings.
-
-You will also be presenting your final projects in the last week of the class. The presentations should not exceed ~8 minutes and should be aimed at giving an overview of the question and analytical approaches. 
-#### Project Checklist
-
-1. **Introduction & Background (20%)**
-
-	❏    Overview:
-
-		❏    Write a clear summary of what you did
-
-		❏    Limit overview to 3-4 sentences
-
-	❏    Research Question:
-
-		❏    Include your _specific_ data science question
-
-		❏    Make sure what you’re measuring (variables) to answer your question is clear
-
-	❏    Background & Prior Work
-
-		❏    Include explanation of what work has been done previously
-
-		❏    Include citations or links to previous work
-
-		❏    Include an explanation of dataset(s) used (_i.e._, how the data was collected, features/variables included, number of observations, information in dataset)
-
-	❏    Hypothesis
-
-		❏    Include your team’s hypothesis
-
-		❏    Ensure that this hypothesis is clear to readers
-
-		❏    Explain why you think this will be the outcome (what was your thinking?)
-
-2. **Data Analysis (60%)**
-
-	❏    Data Wrangling
-
-		❏    Pull your data into Python and explain steps taken to isolate the data you need
-
-	❏    Data Visualization
-
-		❏    Include at least three visualizations
-
-		❏    Clearly label all axes on plots
-
-		❏    Type of all plots appropriate given data displayed
-
-		❏    Interpretation of each visualization included in text
-
-	❏    Data Analysis & Results
-
-		❏    Appropriate analysis performed
-
-		❏    Output of analysis interpreted and interpretation included in notebook
-
-3. **Conclusion & Discussion (20%)**
-
-	❏    Discussion of your results and how they address your experimental question
-
-	❏    Limitations of analysis discussed
-
-	❏    What additional experiments would be interesting, and what data would you need?
-
-
-#### Submission
-
-This single notebook should include all the code you used for all components of the project (wrangling, visualization, analysis). Before submitting, edit all text for clarity, and ensure that code is clearly commented. Your final notebook will be submitted on datahub.
-
-During week 2, project groups will be formed during discussion section. If you are not able to attend section this week and are unable to form a group, reach out to the TA. Sometimes a group member will not tell their group they dropped the class and just go into silent mode. If you are unsure, ask your TA and they can verify the student's status.
+The first part was meant to get you and your group started on your final project. This part will require you to complete the first half of your final project. In this report, you included information in the following sections of what will become your final project:
+- Question
+- Hypothesis
+- Background Information
+- Data
+- Ethical Considerations
 
 {: .warning }
 Do not make multiple submissions on Gradescope per group member. You submit the document once as a group, with all names/PIDs on the PDF.
@@ -109,9 +30,18 @@ Do not make multiple submissions on Gradescope per group member. You submit the 
 
 <h2>Additional Resources</h2>
 
-- Previous A+ Cogs 138 Projects <a href="https://github.com/NeuralDataScience/COGS138/tree/main/Projects/Wi2021" target="_blank" rel="noopener">download &#x2197;</a>
-- Previous BIPN 162 Projects <a href="https://github.com/BIPN162/FinalProjectsWI20/tree/master" target="_blank" rel="noopener">download &#x2197;</a> 
+- Tips and advice from a previous Cogs 9 student <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs9/assignments/assignment-1-advice.pdf" target="_blank" rel="noopener">download &#x2197;</a>
+- Example 1, previous A+ Cogs 9 part 1 <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs9/assignments/assignment-1-example-1.pdf" target="_blank" rel="noopener">download &#x2197;</a>
+- Example 2, previous A+ Cogs 9 part 1 <a href="https://s3.us-west-2.amazonaws.com/ucsd.cogs9/assignments/assignment-1-example-2.pdf" target="_blank" rel="noopener">download &#x2197;</a>
+
+<h2>Frequently Asked Questions - FAQ</h2>
+
+ 1. How specific does our data science question need to be?
+ > Not very specific at this point. Coming up with a good data science question is very tough. It is typical to begin a project with a more relaxed, general question. As you perform analysis, seek more data, and talk with domain experts/stakeholders your questions tend to get more specific. The final project is a good place to take your question and refine it to be more specific. For now, just think about what type of data and topics interest your group, and formulate a question from that limited information.
+ 2. Do we need to find actual data that fits our question?
+ > Good question! No, you do not. in-fact I would be surprised if any team finds a good data set with everything they need to perform such an analysis. What we are looking for is that you sought out a data set with data that is close enough to your topic/question. If there are not enough observations, or missing fields/variables, that is ok! You can still use the data, just let us know what or how much is missing. E.g. A data question could be studying the association between height and GPA, but perhaps your dataset does not include GPA, but avg. test score per class. This is ok, just let us know what data you wish you had and what that data would be like.
+ 3. How much background info do we need?
+ > We can't all be domain experts, nor may you always be able to find one so you may not know *everything* on the topic, nor is that necessary. But, this section *should* include enough information to provide context about your topic and summarize what is already known on the topic for the reader. You should be doing some research, reading critically, summarizing what is known, and citing your sources.
 
 
-
-
+-----------------------
