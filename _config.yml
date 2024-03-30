@@ -24,7 +24,7 @@ destination: docs/
 title: COGS 138
 email: mkhosla@ucsd.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a course website for UCSD COGS 138: Introduction to Data Science
+  This is a course website for UCSD COGS 138: Neural Data Science
 # domain: ucsd-cogs9.github.io
 url: https://www.github.com/mkhosla-ucsd
 baseurl: /cogs138
