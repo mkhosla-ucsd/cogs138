@@ -148,6 +148,11 @@
   },
   "active": "fc9488c21709a677",
   "lastOpenFiles": [
+    "vendor/bundle/ruby/3.2.0/bundler.lock",
+    "_posts/2024-03-30-welcome-to-jekyll.markdown",
+    "_posts/0000-00-00-welcome-to-jekyll.markdown.erb",
+    "Gemfile",
+    "_config.yml.sb-493da545-SrlOH0",
     "index.md",
     "pages/final-project.md",
     "pages/assignments.md",
