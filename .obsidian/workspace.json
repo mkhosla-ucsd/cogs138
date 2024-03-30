@@ -148,6 +148,8 @@
   },
   "active": "fc9488c21709a677",
   "lastOpenFiles": [
+    "vendor/bundle/ruby/3.2.0/bundler.lock",
+    "_posts/0000-00-00-welcome-to-jekyll.markdown.erb",
     "dev-docs/exam/index.html",
     "dev-docs/assignments/index.html",
     "dev-docs/assignments",
@@ -172,9 +174,7 @@
     "pages",
     "_config_dev.yml.sb-493da545-4cFLFV",
     "dev-docs/assets/js/vendor/lunr.min.js",
-    "dev-docs/assets/js/vendor",
     "dev-docs/assets/images/search.svg",
-    "dev-docs/assets/images",
     "dev-docs/assets/minima-social-icons.svg",
     "pages/readings/reading-5.md",
     "pages/final-project/part-two.md",
