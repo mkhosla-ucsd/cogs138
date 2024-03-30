@@ -148,6 +148,7 @@
   },
   "active": "fc9488c21709a677",
   "lastOpenFiles": [
+    "_config.yml.sb-493da545-AnOHH1",
     "vendor/bundle/ruby/3.2.0/bundler.lock",
     "_posts/0000-00-00-welcome-to-jekyll.markdown.erb",
     "Gemfile",
@@ -163,7 +164,6 @@
     "pages/readings/reading-2.md",
     "pages/readings/reading-3.md",
     "pages/readings/reading-1.md",
-    "pages/readings",
     "pages/final-project.md",
     "pages/syllabus.md",
     "pages/exam.md",
