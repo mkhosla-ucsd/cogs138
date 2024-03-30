@@ -15,32 +15,41 @@ permalink: /syllabus/
 {: .fs-2 }
 
 ## Course Materials
-- There is **no** textbook
+- There is **no** textbook. But we will rely on several free online resources
+	- **Whirlwind Tour of Python**: [https://github.com/jakevdp/WhirlwindTourOfPython/](https://github.com/jakevdp/WhirlwindTourOfPython/)
+	- **Python Data Science Handbook**: [https://jakevdp.github.io/PythonDataScienceHandbook/](https://jakevdp.github.io/PythonDataScienceHandbook/)
+		This book is available free online or in print.
+	- Wallisch, ​Neural Data Science
+		https://www.sciencedirect.com/book/9780128040430/neural-data-science
+	- Adhikari & DeNero,​ ​The Foundations of Data Science
+		https://inferentialthinking.com/chapters/intro.html
 - All course materials are provided through **this website**
-- ClassQuestion will be used during lectures to get feedback
 - Piazza will be used for general Q&A
-- Gradescope will be used for assignment/project submissions and taking quizzes/exams
+- Datahub will be used for assignment/project submissions 
+- Gradescope will be used for taking quizzes/exams
 
 ## Course Objectives
-- Comprehend core data science concepts and examine their applications
-- Discuss data privacy and ethical concerns with real-world examples
-- Identify data science questions and the appropriate analytic approach to answering those questions
-- Communicate data-related topics and projects
-- Demonstrate how to think critically about data, and how to approach problems with a "data-first" mindset
-- Describe potential pitfalls of data analyses, how to identify them, and how to avoid them
+- Think from a “data first” perspective: what data _would_ you need to answer your scientific questions of interest?
+- Develop hypotheses specific to big data environments in neuroscience.
+- Work with many different neuroscience data types that might include data on behavior, brain structure and connectivity, single-unit spiking, field potential, gene expression, and even text-mining of the peer-reviewed neuroscientific literature.
+- Integrate multiple heterogeneous datasets in scientifically meaningful ways.
+- Choose statistical model(s) informed by the underlying data.
+- Design a big data experiment and integrate data from multiple open data sources. 
+- Consider alternative hypotheses and assess for spurious correlations and results
 
 ## Grading & Attendance
 
 ### Course Components & Points
 
-|                                               | % of Total Grade |   200 Total Points |
-|:----------------------------------------------|:-----------------|:-------------------|
-| 3 Assignments                                 |               30 |      60 (20 each)  |
-| 5 Reading Quizzes (lowest quiz score dropped) |               20 |      40 (10 each)  |
-| Final Project pt. 1                           |               10 |               20   |
-| Final Project pt. 2                           |               20 |               40   |
-| 1 Final Exam                                  |               20 |               40   |
-| Extra Credit                                  |              N/A |          5 (bonus) |
+|  | % of Total Grade | 200 Total Points |
+| :--- | :--- | :--- |
+| 5 Assignments (lowest score dropped) | 40 | 80 (20 each) |
+| 4 Reading Quizzes | 20 | 40 (10 each) |
+| Final Project Proposal | 5 | 10 |
+| Final Project Notebook | 20 | 40 |
+| Final Project Presentation | 5 | 10 |
+| 1 Final Exam | 10 | 20 |
+| Extra Credit (Guest lecture attendance + Course Surveys + SET) | N/A | 5 (bonus) |
 
 ### Final Grades
 
@@ -49,86 +58,100 @@ Your letter grade will be determined using the following grading scale:
 | Percentage              | Letter Grade              |
 | ----------------------- | ------------------------- |
 | 97-100%                 | A+                        |
-| 93-96%                  | A                         |
-| 90-92%                  | A-                        |
-| 87-89%                  | B+                        |
-| 83-86%                  | B                         |
-| 80-82%                  | B-                        |
-| 77-79%                  | C+                        |
-| 73-76%                  | C                         |
-| 70-72%                  | C-                        |
-| 67-69%                  | D+                        |
-| 63-66%                  | D                         |
-| 60-62%                  | D-                        |
+| 93-96.99%                  | A                         |
+| 90-92.99%                  | A-                        |
+| 87-89.99%                  | B+                        |
+| 83-86.99%                  | B                         |
+| 80-82.99%                  | B-                        |
+| 77-79.99%                  | C+                        |
+| 73-76.99%                  | C                         |
+| 70-72.99%                  | C-                        |
+| 67-69.99%                  | D+                        |
+| 63-66.99%                  | D                         |
+| 60-62.99%                  | D-                        |
 | <60%                    | F                         |
 
-Given the amount of extra credit offered throughout the quarter, grades are not rounded up.
-
 ### Grades
-Grades are released on Gradescope a week after the submission date and sometimes sooner. Ultimately it is your responsibility to check your final grade and get in touch if you believe there is a problem.
+Grades for assignments will be released on Canvas approximately a week after the submission date. Ultimately it is your responsibility to check your final grade and get in touch if you believe there is a problem.
 
 ### Regrade Policy
-The regrade policy is here to protect students from serious issues in grading, not to provide students with a platform to argue about, or plead for an extra point. In our experience less than 3% of the time a regrade results in a change. When we regrade, we closely go through the entire assignment again and reevaluate it as a whole. This means your grade can either stay the same, go up, or go down. This is not to discourage students from requesting legitimate regrades, but to discourage students from arguing about 1 point (which is worth 0.05% of your grade). These discussions require a serious investment of time. We want to spend that time on regrades where a serious issue has occurred or with helping students learn the material outside of class.
+We will work hard to grade everyone fairly and return assignments quickly. But we know you also work hard and want you to receive the grade you’ve earned. Occasionally, grading mistakes do happen, and it's important to us to correct them.
+
+If you think there is a mistake in your grade for an assignment, submit a regrade request to Prof. Khosla and the TA within 72 hours of receipt of the grade. This request should include evidence of why you think your answer was correct (_i.e._, a specific reference to something said in lecture) and should point to the specific part of the assignment for us to reconsider.
 
 **If you think a grading error has occurred please follow these steps:**
 - You have 72 hours to request a regrade
-- Initiate the regrade through Gradescope (if it is a group project, confer w/ your team first and submit one regrade after your team comes to a consensus)
+- If it is a group project, confer w/ your team first and submit one regrade after your team comes to a consensus)
 - Provide evidence for why your answer is correct and merits a regrade (i.e. a specific reference to something said in a lecture, the readings, or office hours)
 - We will get back to you within 48 hours after regrades close with our final decision.
 
 ### Lecture Attendance
-Our goal is to make lectures and office hours worthwhile to attend. However, lecture attendance is not required. All lectures will be recorded. These will be made available to you (UCSD podcast). 
+Our goal is to make lecture and discussion section worth your while to attend. However, I will not be taking attendance. But this is a project-based course, where the final project will be a comprehensive notebook demonstrating the work you and your group do. The more time you spend in class and discussions working on this, the better your project will be. All lectures will be recorded. These will be made available to you (UCSD podcast). 
 
-### Section Attendance
-Section attendance is not mandatory, however, **if you attend 75% of all discussion sections, you get full discussion section extra credit (worth 3 points)**. You *must* fill out the Google Form attendance form in discussion section to earn this credit. Further, groups will be created within sections (usually week 2), so it is helpful to attend discussion section that week. Readings will be discussed and lecture material will be reviewed in section, so it is to your benefit to go, participate, and ask questions.
-
+### Sections 
+Discussion sections will be used to review content from lectures, discuss readings, help with coding and the Final Project, and guide your assignments, so it is to your benefit to go, participate, and ask questions. Further, groups will be created within sections (usually week 2), so it is especially helpful to attend discussion section that week. 
 ## Course Assignments & Topics
-This class is a survey course intended to get you all excited about becoming data scientists! Data are everywhere and they’re being used in tried-and-true, new, and creative ways. This course will introduce you to the broad topics in data science, discuss what it means to be a data scientist, and get you on your way to thinking like a data scientist.
+Neuroscience is a rapidly changing field that is increasingly moving towards ever larger and more diverse datasets that are analyzed using increasingly sophisticated computational statistical methods. There is a strong need for neuroscientists who can think deeply about problems that incorporate information from a wide array of domains including psychology and behavior, cognitive science, genomics, pharmacology and chemistry, biophysics, statistics, and AI/ML. With its focus on combining many large, multidimensional, heterogeneous datasets to answer questions and solve problems, data science provides a framework for achieving this goal.
+
+Determining what data one needs, and how to effectively combine datasets, is a creative process. For example, a neural data scientist might be tasked with combining:
+
+1) _demographic information_ and 2) _multiple cognitive and behavioral measures_, from people from whom we might collect;
+
+3) _biometric data_, 4) _motion capture data_ to understand motor control, and 5) _eye-tracking_ to study attention, along with;
+
+6) _structural connectomic_ and 7) _functional brain imaging_ data collected using methods with different spatial and temporal resolution (such as fMRI and EEG), and then place those results into context relative to;
+
+8) _average human brain gene expression patterns_ and 9) _the existing knowledge embedded within the peer-reviewed neuroscience literature_ (>3,000,000 papers).
+
+These types of data are very different: continuous and ordinal, time-series, video and images, directed graphs, spatial, high-dimensional categorical / nominal, and unstructured natural language. What is the appropriate way to aggregate and synthesize these data? What are the benefits and caveats for, say, aggregating spatially versus temporally? Being able to conceptualize how to carry out this integration is necessary before leveraging any technical skills will even be useful.
 
 ### Readings & Quizzes
 Quizzes cover the reading material assigned, e.g. Quiz 1 only covers material from reading 1 (R1).
 
-- Five multiple choice (10 questions) quizzes
+- Four multiple choice (10 questions) quizzes
 - No time limit
 - Open notes, but you must work alone.
 - Taken and submitted through Gradescope
 
-Your lowest quiz score will be dropped when calculating your final grade. Late reading quizzes will be accepted up to 48 hours; however, they will receive ½ credit.
-
+Late reading quizzes will be accepted up to 48 hours; however, they will receive ½ credit.
 
 ### Assignments
-Assignments will focus on applying the concepts covered in lectures and readings. 
+There are five assignments. Assignments will focus on applying the concepts covered in lecture and ensuring you’re on the right track for your final project.
 
-- Three individual assignments submitted through Gradescope
-- Use the Google Doc template link (found on this website under assignments), **make a copy of the template**. You do not have edit access to the version that is linked, only the ability to copy it.
-- One PDF submission per student (ensure your name and PID are on the PDF)
-- You may resubmit as many times as you like before the deadline.
-- Late assignments have 5 points deducted within the first 24 hours, and an additional 5 points during the following 24 hours.
-- No late assignments accepted after 48 hours.
+Assignments will be posted on the Fridays of the week before they’re due, and you have until _Friday at 11:59 PM_ of the following week (so about a week) to complete each assignment. Assignments will be released and submitted on datahub. Assignments are submitted individually. You will receive feedback along with a grade within approximately a week from the due date. 
+
+_Late assignments_ earn fractional credit (75% within one week late; no late assignments accepted after one week). 
 
 ### Final Project
-The final project is a two-part report on how you would handle a complicated data science project. It’s a culmination of what you learned from the assignments and lectures.
 
-- One report submitted through Gradescope per group
+For the final project, you will work in groups of 2-3 members. You have two options: 
+- Choose a paper that uses a new data analysis technique that has been published no more than 10 years ago (most should have code and data publicly available). Implement this method using a new data set (either your own or from a publicly available source).
+- Come up with a neuroscientific research question of your own that is answerable with available data. You can look at some of the public datasets to frame your question. Determine an analytical approach that can be used to answer your question and implement this method.  
+
+
+**Proposal**
+Around mid-quarter, you are required to submit a project proposal. The template will be provided to you. 
+- One report submitted through Gradescope per group. 
 - One PDF submission per group (ensure all your names and PIDs are on the PDF)
 - Your team may resubmit as many times as you like before the deadline
 - Late submissions:
-  - Late assignments have 5 points deducted within the first 24 hours, and an additional 5 points during the following 24 hours.
-  - No late assignments accepted after 48 hours.
+  - Late reports have 5 points deducted within the first 24 hours, and an additional 5 points during the following 24 hours.
+  - No late reports accepted after 48 hours.
+  - 
+You should integrate the feedback given on your proposal into your product, and reach out to Dr. Khosla or our TA if you have any questions or concerns.
 
-Your final will include your data science question as well as all the nitty gritty, whys, and hows of the data science project you have chosen. You’ll write about your data science question, find some example data, summarize the data, explain how you would wrangle the data to answer your data science question, and describe the types of analysis you would carry out to answer your question of interest. You **WILL NOT** have to actually perform the analysis to answer the question, nor wrangle data, you only write about how you would perform the analysis and what you expect the outcomes will be.
+**Final submission**
+Your final product for this project will be a Jupyter Notebook that walks us through the steps of your analysis to answer your experimental question. Ultimately, you should generate three different plots that concisely address your experimental question.
 
 {: .note .fs-2 }
-To reiterate, your team will make a copy of my Google document template and work on that copy together. Make sure to read all the instructions. Your team may resubmit as many times as you want up until the submission deadline. You will receive feedback along with a grade typically within a week for part 1. Feedback from us should be incorporated into part 2 of the final.
-
-
+To reiterate, your team will create a jupyter notebook for all project-related work and work on that copy together. Make sure to read all the instructions. You will receive feedback along with a grade typically within a week for the proposal. Feedback from us should be incorporated into the final submission.
 
 ### Exam
 The final exam is comprehensive and will cover the lectures (and possibly guest lectures). An exam review session will be held during discussion section week 10.
 
 - One multiple-choice exam
 - Available for 72 hours on Gradescope
-- You have 2 continuous hours to finish once started
+- You have 1 hour to finish once started
 - One attempt
 - Open notes and open Google/ChatGPT/etc., but you must work alone
 - Taken and submitted through Gradescope
@@ -151,7 +174,7 @@ This class will be a welcoming, inclusive, and harassment-free experience for ev
 
 At all times, you should be considerate and respectful. Always refrain from demeaning, discriminatory, or harassing behavior and speech. Last of all, take care of each other.
 
-If you have a concern, please speak with Prof Khosla or your TAs. If you are uncomfortable doing so, that’s ok! The [OPHD](https://blink.ucsd.edu/HR/policies/sexual/OPHD.html) (Office for the Prevention of Sexual Harassment and Discrimination) and [CARE](https://care.ucsd.edu/) (confidential advocacy and education office for sexual violence and gender-based violence) are wonderful resources on campus.
+If you have a concern, please speak with Prof Khosla or your TA/IAs. If you are uncomfortable doing so, that’s ok! The [OPHD](https://blink.ucsd.edu/HR/policies/sexual/OPHD.html) (Office for the Prevention of Sexual Harassment and Discrimination) and [CARE](https://care.ucsd.edu/) (confidential advocacy and education office for sexual violence and gender-based violence) are wonderful resources on campus.
 
 
 ### Academic Integrity
@@ -185,10 +208,10 @@ If you need counseling or if you are in a mental crisis you can contact [CAPS](h
 **How to Get Your Question(s) Answered and/or Provide Feedback**
 It’s great that we have many ways to communicate, but it can get tricky to figure out who to contact or where your question belongs, or when to expect a response. These guidelines are to help you get your question answered as quickly as possible and to ensure that we’re able to get to everyone’s questions.
 
-That said, to ensure that we’re respecting their time, TAs and IAs have been instructed they’re only obligated to answer questions between normal working hours (M-F 9am-5pm). However, I know that’s not when you may be doing your work. So, please feel free to reach out whenever is best for you while knowing that, you may not get a response until the next day. As such, do your best not to wait until the last minute to ask a question. If there is an emergency and you need to contact staff immediately, email Prof Khosla and put "EMERGENCY-COGS9" in the subject line. I will get back to you ASAP.
+That said, to ensure that we’re respecting their time, TAs and IAs have been instructed they’re only obligated to answer questions between normal working hours (M-F 9am-5pm). However, I know that’s not when you may be doing your work. So, please feel free to reach out whenever is best for you while knowing that, you may not get a response until the next day. As such, do your best not to wait until the last minute to ask a question. If there is an emergency and you need to contact staff immediately, email Prof Khosla and put "EMERGENCY-COGS138" in the subject line. I will get back to you ASAP.
 
 If you have…
 - **questions about course content** - these are awesome! We want everyone to see them and have their questions answered, please post questions on Piazza or ask during class/office hours.
 - **questions about course logistics** - first, check the syllabus. If the answer is not there, ask in Section, ask a classmate, or ask during class/office hours.
-- **something super cool to share related to class** - feel free message on Piazza, email Prof Khosla ([mkhosla@ucsd.edu](mkhosla@ucsd.edu)), or come to office hours. Be sure to include COGS 9 in the email subject line and your full name in your message.
-- **something you want to talk about in-depth** - meet in person/digitally during office hours or schedule a time to meet 1:1 by email. Be sure to include COGS 9 in the email subject line. Or it may be missed. [mkhosla@ucsd.edu](mkhosla@ucsd.edu). 
+- **something super cool to share related to class** - feel free message on Piazza, email Prof Khosla ([mkhosla@ucsd.edu](mkhosla@ucsd.edu)), or come to office hours. Be sure to include COGS 138 in the email subject line and your full name in your message.
+- **something you want to talk about in-depth** - meet in person/digitally during office hours or schedule a time to meet 1:1 by email. Be sure to include COGS 138 in the email subject line. Or it may be missed. [mkhosla@ucsd.edu](mkhosla@ucsd.edu). 
