@@ -12,7 +12,6 @@ permalink: /getting started
 1. Join the class **Piazza**:
    - Use Piazza to ask questions and get help from your fellow students, TAs, IAs, and myself
    - Piazza link:  **[{{ variables.piazza_link }}]({{ variables.piazza_link }})**
-   - Entry code:  **{{ variables.piazza_entry_code }}**
    - Can also be accessed directly from the module on Canvas
 2. Access **Gradescope**
    -  Can be accessed directly from the module on Canvas. 

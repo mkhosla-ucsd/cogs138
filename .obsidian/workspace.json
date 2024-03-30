@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mkhosla@ucsd.edu.md",
+                "file": "pages/final-project/example-datasets.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mkhosla@ucsd.edu.md",
+                "file": "pages/final-project/example-datasets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mkhosla@ucsd.edu.md",
+                "file": "pages/final-project/example-datasets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mkhosla@ucsd.edu.md"
+                "file": "pages/final-project/example-datasets.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "fc9488c21709a677",
   "lastOpenFiles": [
+    "pages/final-project/part-one.md",
+    "pages/getting-started.md",
+    "pages/syllabus.md",
+    "pages/readings.md",
+    "pages/office-hours.md",
+    "mkhosla@ucsd.edu.md",
     "_config.yml.sb-493da545-ZtdRiY",
     "_posts/0000-00-00-welcome-to-jekyll.markdown.erb",
     "_config.yml.sb-493da545-bI5Ayn",
@@ -158,21 +164,15 @@
     "_config.yml.sb-493da545-D8kloG",
     "_config.yml.sb-493da545-AnOHH1",
     "Gemfile",
-    "Gemfile.sb-493da545-Scdp7T",
     "dev-docs/assets/minima-social-icons.svg",
     "pages/readings/reading-4.md",
     "pages/readings/reading-2.md",
     "pages/readings/reading-3.md",
     "pages/readings/reading-1.md",
     "pages/final-project.md",
-    "pages/syllabus.md",
     "pages/exam.md",
-    "pages/getting-started.md",
-    "pages/office-hours.md",
-    "pages/readings.md",
     "pages/assignments.md",
     "pages/final-project/project-faq.md",
-    "pages/final-project/part-one.md",
     "pages/final-project/group-work.md",
     "pages/final-project/example-datasets.md",
     "dev-docs/assets/images/search.svg",
@@ -183,7 +183,6 @@
     "pages/assignments/assignment-1.md",
     "index.md",
     "README.md",
-    "mkhosla@ucsd.edu.md",
     "dev-docs/mkhosla@ucsd.edu.md",
     "{{.md"
   ]

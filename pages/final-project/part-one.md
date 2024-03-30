@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Final Project Part 1
+title: Final Project Guidelines
 has_children: false
 parent: Final Project
 nav_order: 1
