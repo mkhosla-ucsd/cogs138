@@ -7,7 +7,7 @@ piazza_entry_code: g3w0wjexe65
 classquestion_code: QJZJD
 gradescope_link: https://canvas.ucsd.edu/courses/54761/external_tools/80
 gradescope_entry_code: PWJEVP
-pre_course_survey: https://forms.gle/TEnqU91WbmQ7qGbz6
+pre_course_survey: https://forms.gle/aFhxf9H1hHAW8aK26
 cogsadvising: cogsadvising@ucsd.edu
 
 instructor:
@@ -16,7 +16,7 @@ instructor:
   type: Instructor
   office_hours:
     - day: Fri
-      time: 12:00-2:00PM
+      time: 11:15-1:00PM
       location: CSB 247
 
 
@@ -25,8 +25,8 @@ teaching_assistants:
     email: n2mittal@ucsd.edu
     type: TA
     office_hours:
-      - day: Tu
-        time: 1:00-3:00PM
+      - day: TBD
+        time:TBD
         location: CSB 114
   
 
