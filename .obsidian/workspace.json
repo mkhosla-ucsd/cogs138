@@ -23,9 +23,11 @@
             "id": "81ec0f45b4b6e5d4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "pages/Notebooks.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/final-project/example-datasets.md",
+                "file": "pages/Notebooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/final-project/example-datasets.md",
+                "file": "pages/Notebooks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/final-project/example-datasets.md"
+                "file": "pages/Notebooks.md"
               }
             }
           }
@@ -159,6 +161,15 @@
   },
   "active": "81ec0f45b4b6e5d4",
   "lastOpenFiles": [
+    "pages/syllabus.md",
+    "pages/readings.md",
+    "pages/office-hours.md",
+    "pages/getting-started.md",
+    "{{.md",
+    "pages/final-project.md",
+    "pages/Notebooks.md",
+    "pages/exam.md copy",
+    "pages/untitled folder",
     "Notebooks/lecture_2/part4-for-loops-conditionals.ipynb",
     "Notebooks/lecture_2/part3-data-structures.ipynb",
     "Notebooks/lecture_2/part0-jupyter-and-notebooks.ipynb",
@@ -167,21 +178,13 @@
     "Notebooks/lecture_2",
     "Notebooks",
     "untitled folder",
-    "_data/wi24/variables.yml.sb-493da545-44lm4p",
     "pages/final-project/part-one.md",
-    "pages/getting-started.md",
-    "pages/syllabus.md",
-    "pages/readings.md",
-    "pages/office-hours.md",
     "mkhosla@ucsd.edu.md",
-    "_config.yml.sb-493da545-ZtdRiY",
-    "_posts/0000-00-00-welcome-to-jekyll.markdown.erb",
     "dev-docs/assets/minima-social-icons.svg",
     "pages/readings/reading-4.md",
     "pages/readings/reading-2.md",
     "pages/readings/reading-3.md",
     "pages/readings/reading-1.md",
-    "pages/final-project.md",
     "pages/exam.md",
     "pages/assignments.md",
     "pages/final-project/project-faq.md",
@@ -195,7 +198,6 @@
     "pages/assignments/assignment-1.md",
     "index.md",
     "README.md",
-    "dev-docs/mkhosla@ucsd.edu.md",
-    "{{.md"
+    "dev-docs/mkhosla@ucsd.edu.md"
   ]
 }
