@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "81ec0f45b4b6e5d4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,8 +157,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc9488c21709a677",
+  "active": "81ec0f45b4b6e5d4",
   "lastOpenFiles": [
+    "Notebooks/lecture_2/part4-for-loops-conditionals.ipynb",
+    "Notebooks/lecture_2/part3-data-structures.ipynb",
+    "Notebooks/lecture_2/part0-jupyter-and-notebooks.ipynb",
+    "Notebooks/lecture_2/part2-types-conversion.ipynb",
+    "Notebooks/lecture_2/part1-variables-and-assignment.ipynb",
+    "Notebooks/lecture_2",
+    "Notebooks",
+    "untitled folder",
     "_data/wi24/variables.yml.sb-493da545-44lm4p",
     "pages/final-project/part-one.md",
     "pages/getting-started.md",
@@ -157,14 +176,6 @@
     "mkhosla@ucsd.edu.md",
     "_config.yml.sb-493da545-ZtdRiY",
     "_posts/0000-00-00-welcome-to-jekyll.markdown.erb",
-    "_config.yml.sb-493da545-bI5Ayn",
-    "Gemfile.sb-493da545-ALqBDy",
-    "_config.yml.sb-493da545-XcfTKP",
-    "_config.yml.sb-493da545-vCFQ1D",
-    "vendor/bundle/ruby/3.2.0/bundler.lock",
-    "_config.yml.sb-493da545-D8kloG",
-    "_config.yml.sb-493da545-AnOHH1",
-    "Gemfile",
     "dev-docs/assets/minima-social-icons.svg",
     "pages/readings/reading-4.md",
     "pages/readings/reading-2.md",
