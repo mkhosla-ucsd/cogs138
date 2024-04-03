@@ -7,10 +7,9 @@ permalink: /notebooks/
 ---
 
 <h1>Notebooks </h1>
-All jupyter notebooks will be available at the following link: 
-https://github.com/mkhosla-ucsd/cogs138_notebooks
+All jupyter notebooks will be available at this <a href="https://github.com/mkhosla-ucsd/cogs138_notebooks" target="_blank" rel="noopener">link &#x2197;</a>
 
+You can use the following link to sync with datahub <br>
 
-You can use this link to sync with datahub: 
 [https://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/mkhosla-ucsd/cogs138_notebooks](https://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/mkhosla-ucsd/cogs138_notebooks)
 
