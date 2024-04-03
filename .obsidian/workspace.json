@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/final-project/example-datasets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81ec0f45b4b6e5d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "pages/Notebooks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81ec0f45b4b6e5d4",
+  "active": "fc9488c21709a677",
   "lastOpenFiles": [
-    "pages/readings/reading-1.md",
+    "pages/final-project/example-datasets.md",
     "pages/Notebooks.md",
+    "pages/readings/reading-1.md",
     "pages/syllabus.md",
     "pages/readings.md",
     "pages/office-hours.md",
@@ -189,7 +177,6 @@
     "pages/assignments.md",
     "pages/final-project/project-faq.md",
     "pages/final-project/group-work.md",
-    "pages/final-project/example-datasets.md",
     "dev-docs/assets/images/search.svg",
     "pages/readings/reading-5.md",
     "pages/final-project/part-two.md",
