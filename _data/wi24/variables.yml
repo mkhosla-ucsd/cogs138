@@ -17,7 +17,7 @@ instructor:
   office_hours:
     - day: Fri
       time: 11:15-1:00PM
-      location: CSB 247
+      location: CSB 247 / Zoom
 
 
 teaching_assistants:
@@ -25,9 +25,9 @@ teaching_assistants:
     email: n2mittal@ucsd.edu
     type: TA
     office_hours:
-      - day: Thu
-        time: 3:30-4:30PM
-        location: CSB 114
+      - day: Tue
+        time: 2:00-3:30PM
+        location: Zoom
   
 
 instructional_assistants:
